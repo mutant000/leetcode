@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 20
-- Latest batch: 2026-05-14, Move Zeroes accepted from LeetCode Top 100 Liked
+- Solved problems: 21
+- Latest batch: 2026-05-14, Majority Element accepted from LeetCode Top 100 Liked
 - Language: Python3
 
 ## Problems
@@ -27,6 +27,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 136 | Single Number | Easy | [solution.py](leetcode/0136-single-number/solution.py) | [notes.md](leetcode/0136-single-number/notes.md) |
 | 141 | Linked List Cycle | Easy | [solution.py](leetcode/0141-linked-list-cycle/solution.py) | [notes.md](leetcode/0141-linked-list-cycle/notes.md) |
 | 160 | Intersection of Two Linked Lists | Easy | [solution.py](leetcode/0160-intersection-of-two-linked-lists/solution.py) | [notes.md](leetcode/0160-intersection-of-two-linked-lists/notes.md) |
+| 169 | Majority Element | Easy | [solution.py](leetcode/0169-majority-element/solution.py) | [notes.md](leetcode/0169-majority-element/notes.md) |
 | 206 | Reverse Linked List | Easy | [solution.py](leetcode/0206-reverse-linked-list/solution.py) | [notes.md](leetcode/0206-reverse-linked-list/notes.md) |
 | 226 | Invert Binary Tree | Easy | [solution.py](leetcode/0226-invert-binary-tree/solution.py) | [notes.md](leetcode/0226-invert-binary-tree/notes.md) |
 | 234 | Palindrome Linked List | Easy | [solution.py](leetcode/0234-palindrome-linked-list/solution.py) | [notes.md](leetcode/0234-palindrome-linked-list/notes.md) |
@@ -37,7 +38,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 | Date | Summary |
 | --- | --- |
-| [2026-05-14](logs/2026-05-14.md) | Roman to Integer, Valid Parentheses, Single Number, Intersection of Two Linked Lists, Reverse Linked List, Palindrome Linked List, and Move Zeroes accepted |
+| [2026-05-14](logs/2026-05-14.md) | Roman to Integer, Valid Parentheses, Single Number, Intersection of Two Linked Lists, Majority Element, Reverse Linked List, Palindrome Linked List, and Move Zeroes accepted |
 | [2026-05-13](logs/2026-05-13.md) | Binary Tree Inorder Traversal, plus 10 accepted Top 100 Liked trial-run problems |
 | [2026-05-12](logs/2026-05-12.md) | Search Insert Position, Climbing Stairs |
 
