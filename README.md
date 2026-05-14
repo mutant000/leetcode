@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 14
-- Latest batch: 2026-05-14, Intersection of Two Linked Lists accepted from LeetCode Top 100 Liked
+- Solved problems: 15
+- Latest batch: 2026-05-14, Roman to Integer accepted from LeetCode Top 100 Liked
 - Language: Python3
 
 ## Problems
@@ -13,6 +13,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | # | Problem | Difficulty | Solution | Notes |
 | --- | --- | --- | --- | --- |
 | 1 | Two Sum | Easy | [solution.py](leetcode/0001-two-sum/solution.py) | [notes.md](leetcode/0001-two-sum/notes.md) |
+| 13 | Roman to Integer | Easy | [solution.py](leetcode/0013-roman-to-integer/solution.py) | [notes.md](leetcode/0013-roman-to-integer/notes.md) |
 | 21 | Merge Two Sorted Lists | Easy | [solution.py](leetcode/0021-merge-two-sorted-lists/solution.py) | [notes.md](leetcode/0021-merge-two-sorted-lists/notes.md) |
 | 35 | Search Insert Position | Easy | [solution.py](leetcode/0035-search-insert-position/solution.py) | [notes.md](leetcode/0035-search-insert-position/notes.md) |
 | 70 | Climbing Stairs | Easy | [solution.py](leetcode/0070-climbing-stairs/solution.py) | [notes.md](leetcode/0070-climbing-stairs/notes.md) |
@@ -31,7 +32,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 | Date | Summary |
 | --- | --- |
-| [2026-05-14](logs/2026-05-14.md) | Intersection of Two Linked Lists accepted |
+| [2026-05-14](logs/2026-05-14.md) | Roman to Integer and Intersection of Two Linked Lists accepted |
 | [2026-05-13](logs/2026-05-13.md) | Binary Tree Inorder Traversal, plus 10 accepted Top 100 Liked trial-run problems |
 | [2026-05-12](logs/2026-05-12.md) | Search Insert Position, Climbing Stairs |
 
