@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 19
-- Latest batch: 2026-05-14, Single Number accepted from LeetCode Top 100 Liked
+- Solved problems: 20
+- Latest batch: 2026-05-14, Move Zeroes accepted from LeetCode Top 100 Liked
 - Language: Python3
 
 ## Problems
@@ -30,13 +30,14 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 206 | Reverse Linked List | Easy | [solution.py](leetcode/0206-reverse-linked-list/solution.py) | [notes.md](leetcode/0206-reverse-linked-list/notes.md) |
 | 226 | Invert Binary Tree | Easy | [solution.py](leetcode/0226-invert-binary-tree/solution.py) | [notes.md](leetcode/0226-invert-binary-tree/notes.md) |
 | 234 | Palindrome Linked List | Easy | [solution.py](leetcode/0234-palindrome-linked-list/solution.py) | [notes.md](leetcode/0234-palindrome-linked-list/notes.md) |
+| 283 | Move Zeroes | Easy | [solution.py](leetcode/0283-move-zeroes/solution.py) | [notes.md](leetcode/0283-move-zeroes/notes.md) |
 | 543 | Diameter of Binary Tree | Easy | [solution.py](leetcode/0543-diameter-of-binary-tree/solution.py) | [notes.md](leetcode/0543-diameter-of-binary-tree/notes.md) |
 
 ## Daily Logs
 
 | Date | Summary |
 | --- | --- |
-| [2026-05-14](logs/2026-05-14.md) | Roman to Integer, Valid Parentheses, Single Number, Intersection of Two Linked Lists, Reverse Linked List, and Palindrome Linked List accepted |
+| [2026-05-14](logs/2026-05-14.md) | Roman to Integer, Valid Parentheses, Single Number, Intersection of Two Linked Lists, Reverse Linked List, Palindrome Linked List, and Move Zeroes accepted |
 | [2026-05-13](logs/2026-05-13.md) | Binary Tree Inorder Traversal, plus 10 accepted Top 100 Liked trial-run problems |
 | [2026-05-12](logs/2026-05-12.md) | Search Insert Position, Climbing Stairs |
 
