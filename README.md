@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 18
-- Latest batch: 2026-05-14, Palindrome Linked List accepted from LeetCode Top 100 Liked
+- Solved problems: 19
+- Latest batch: 2026-05-14, Single Number accepted from LeetCode Top 100 Liked
 - Language: Python3
 
 ## Problems
@@ -24,6 +24,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 108 | Convert Sorted Array to Binary Search Tree | Easy | [solution.py](leetcode/0108-convert-sorted-array-to-binary-search-tree/solution.py) | [notes.md](leetcode/0108-convert-sorted-array-to-binary-search-tree/notes.md) |
 | 118 | Pascal's Triangle | Easy | [solution.py](leetcode/0118-pascals-triangle/solution.py) | [notes.md](leetcode/0118-pascals-triangle/notes.md) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [solution.py](leetcode/0121-best-time-to-buy-and-sell-stock/solution.py) | [notes.md](leetcode/0121-best-time-to-buy-and-sell-stock/notes.md) |
+| 136 | Single Number | Easy | [solution.py](leetcode/0136-single-number/solution.py) | [notes.md](leetcode/0136-single-number/notes.md) |
 | 141 | Linked List Cycle | Easy | [solution.py](leetcode/0141-linked-list-cycle/solution.py) | [notes.md](leetcode/0141-linked-list-cycle/notes.md) |
 | 160 | Intersection of Two Linked Lists | Easy | [solution.py](leetcode/0160-intersection-of-two-linked-lists/solution.py) | [notes.md](leetcode/0160-intersection-of-two-linked-lists/notes.md) |
 | 206 | Reverse Linked List | Easy | [solution.py](leetcode/0206-reverse-linked-list/solution.py) | [notes.md](leetcode/0206-reverse-linked-list/notes.md) |
@@ -35,7 +36,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 | Date | Summary |
 | --- | --- |
-| [2026-05-14](logs/2026-05-14.md) | Roman to Integer, Valid Parentheses, Intersection of Two Linked Lists, Reverse Linked List, and Palindrome Linked List accepted |
+| [2026-05-14](logs/2026-05-14.md) | Roman to Integer, Valid Parentheses, Single Number, Intersection of Two Linked Lists, Reverse Linked List, and Palindrome Linked List accepted |
 | [2026-05-13](logs/2026-05-13.md) | Binary Tree Inorder Traversal, plus 10 accepted Top 100 Liked trial-run problems |
 | [2026-05-12](logs/2026-05-12.md) | Search Insert Position, Climbing Stairs |
 
