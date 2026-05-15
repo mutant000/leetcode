@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 27
-- Latest batch: 2026-05-15, Valid Anagram implemented locally
+- Solved problems: 28
+- Latest batch: 2026-05-15, Merge Sorted Array implemented locally
 - Language: Python3
 
 ## Problems
@@ -22,6 +22,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 39 | Combination Sum | Medium | [solution.py](leetcode/0039-combination-sum/solution.py) | [notes.md](leetcode/0039-combination-sum/notes.md) |
 | 46 | Permutations | Medium | [solution.py](leetcode/0046-permutations/solution.py) | [notes.md](leetcode/0046-permutations/notes.md) |
 | 70 | Climbing Stairs | Easy | [solution.py](leetcode/0070-climbing-stairs/solution.py) | [notes.md](leetcode/0070-climbing-stairs/notes.md) |
+| 88 | Merge Sorted Array | Easy | [solution.py](leetcode/0088-merge-sorted-array/solution.py) | [notes.md](leetcode/0088-merge-sorted-array/notes.md) |
 | 94 | Binary Tree Inorder Traversal | Easy | [solution.py](leetcode/0094-binary-tree-inorder-traversal/solution.py) | [notes.md](leetcode/0094-binary-tree-inorder-traversal/notes.md) |
 | 101 | Symmetric Tree | Easy | [solution.py](leetcode/0101-symmetric-tree/solution.py) | [notes.md](leetcode/0101-symmetric-tree/notes.md) |
 | 104 | Maximum Depth of Binary Tree | Easy | [solution.py](leetcode/0104-maximum-depth-of-binary-tree/solution.py) | [notes.md](leetcode/0104-maximum-depth-of-binary-tree/notes.md) |
@@ -44,7 +45,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 | Date | Summary |
 | --- | --- |
-| [2026-05-15](logs/2026-05-15.md) | Contains Duplicate and Valid Anagram implemented locally; not submitted (network restricted) |
+| [2026-05-15](logs/2026-05-15.md) | Contains Duplicate, Valid Anagram, and Merge Sorted Array implemented locally; not submitted (network restricted) |
 | [2026-05-14](logs/2026-05-14.md) | Roman to Integer, Valid Parentheses, Single Number, Intersection of Two Linked Lists, Majority Element, Letter Combinations, Generate Parentheses, Combination Sum, Permutations, Reverse Linked List, Palindrome Linked List, and Move Zeroes accepted |
 | [2026-05-13](logs/2026-05-13.md) | Binary Tree Inorder Traversal, plus 10 accepted Top 100 Liked trial-run problems |
 | [2026-05-12](logs/2026-05-12.md) | Search Insert Position, Climbing Stairs |
