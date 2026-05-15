@@ -4,8 +4,9 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 31
-- Latest batch: 2026-05-15, Contains Duplicate, Valid Anagram, Merge Sorted Array, Binary Tree Level Order Traversal, Remove Nth Node From End of List, and N-Queens accepted
+- Solved problems: 32
+- Latest batch: 2026-05-15, Contains Duplicate, Valid Anagram, Merge Sorted Array, Binary Tree Level Order Traversal, Remove Nth Node From End of List, N-Queens, and Subsets accepted
+- Pending local implementation: 14. Longest Common Prefix (tested locally, submission blocked in this session)
 - Language: Python3
 
 ## Problems
@@ -24,6 +25,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 46 | Permutations | Medium | [solution.py](leetcode/0046-permutations/solution.py) | [notes.md](leetcode/0046-permutations/notes.md) |
 | 51 | N-Queens | Hard | [solution.py](leetcode/0051-n-queens/solution.py) | [notes.md](leetcode/0051-n-queens/notes.md) |
 | 70 | Climbing Stairs | Easy | [solution.py](leetcode/0070-climbing-stairs/solution.py) | [notes.md](leetcode/0070-climbing-stairs/notes.md) |
+| 78 | Subsets | Medium | [solution.py](leetcode/0078-subsets/solution.py) | [notes.md](leetcode/0078-subsets/notes.md) |
 | 88 | Merge Sorted Array | Easy | [solution.py](leetcode/0088-merge-sorted-array/solution.py) | [notes.md](leetcode/0088-merge-sorted-array/notes.md) |
 | 94 | Binary Tree Inorder Traversal | Easy | [solution.py](leetcode/0094-binary-tree-inorder-traversal/solution.py) | [notes.md](leetcode/0094-binary-tree-inorder-traversal/notes.md) |
 | 102 | Binary Tree Level Order Traversal | Medium | [solution.py](leetcode/0102-binary-tree-level-order-traversal/solution.py) | [notes.md](leetcode/0102-binary-tree-level-order-traversal/notes.md) |
@@ -48,7 +50,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 | Date | Summary |
 | --- | --- |
-| [2026-05-15](logs/2026-05-15.md) | Contains Duplicate, Valid Anagram, Merge Sorted Array, Binary Tree Level Order Traversal, Remove Nth Node From End of List, and N-Queens accepted |
+| [2026-05-15](logs/2026-05-15.md) | Contains Duplicate, Valid Anagram, Merge Sorted Array, Binary Tree Level Order Traversal, Remove Nth Node From End of List, N-Queens, and Subsets accepted; Longest Common Prefix implemented locally pending submission |
 | [2026-05-14](logs/2026-05-14.md) | Roman to Integer, Valid Parentheses, Single Number, Intersection of Two Linked Lists, Majority Element, Letter Combinations, Generate Parentheses, Combination Sum, Permutations, Reverse Linked List, Palindrome Linked List, and Move Zeroes accepted |
 | [2026-05-13](logs/2026-05-13.md) | Binary Tree Inorder Traversal, plus 10 accepted Top 100 Liked trial-run problems |
 | [2026-05-12](logs/2026-05-12.md) | Search Insert Position, Climbing Stairs |
