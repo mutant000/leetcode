@@ -5,7 +5,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 ## Progress
 
 - Solved problems: 30
-- Latest batch: 2026-05-15, Remove Nth Node From End implemented locally
+- Latest batch: 2026-05-15, Contains Duplicate, Valid Anagram, Merge Sorted Array, Binary Tree Level Order Traversal, and Remove Nth Node From End submitted on LeetCode
 - Language: Python3
 
 ## Problems
@@ -47,7 +47,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 | Date | Summary |
 | --- | --- |
-| [2026-05-15](logs/2026-05-15.md) | Contains Duplicate, Valid Anagram, Merge Sorted Array, Binary Tree Level Order Traversal, and Remove Nth Node From End implemented locally; not submitted (network restricted) |
+| [2026-05-15](logs/2026-05-15.md) | Contains Duplicate, Valid Anagram, Merge Sorted Array, Binary Tree Level Order Traversal, and Remove Nth Node From End submitted on LeetCode and accepted |
 | [2026-05-14](logs/2026-05-14.md) | Roman to Integer, Valid Parentheses, Single Number, Intersection of Two Linked Lists, Majority Element, Letter Combinations, Generate Parentheses, Combination Sum, Permutations, Reverse Linked List, Palindrome Linked List, and Move Zeroes accepted |
 | [2026-05-13](logs/2026-05-13.md) | Binary Tree Inorder Traversal, plus 10 accepted Top 100 Liked trial-run problems |
 | [2026-05-12](logs/2026-05-12.md) | Search Insert Position, Climbing Stairs |
