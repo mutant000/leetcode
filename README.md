@@ -5,7 +5,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 ## Progress
 
 - Solved problems: 30
-- Latest batch: 2026-05-15, Contains Duplicate, Valid Anagram, Merge Sorted Array, Binary Tree Level Order Traversal, and Remove Nth Node From End implemented locally (submission verification pending)
+- Latest batch: 2026-05-15, Contains Duplicate, Valid Anagram, Merge Sorted Array, Binary Tree Level Order Traversal, and Remove Nth Node From End submitted on LeetCode and accepted
 - Language: Python3
 
 ## Problems
@@ -15,7 +15,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 1 | Two Sum | Easy | [solution.py](leetcode/0001-two-sum/solution.py) | [notes.md](leetcode/0001-two-sum/notes.md) |
 | 13 | Roman to Integer | Easy | [solution.py](leetcode/0013-roman-to-integer/solution.py) | [notes.md](leetcode/0013-roman-to-integer/notes.md) |
 | 17 | Letter Combinations of a Phone Number | Medium | [solution.py](leetcode/0017-letter-combinations-of-a-phone-number/solution.py) | [notes.md](leetcode/0017-letter-combinations-of-a-phone-number/notes.md) |
-| 19 | Remove Nth Node From End of List | Easy | [solution.py](leetcode/0019-remove-nth-node-from-end-of-list/solution.py) | [notes.md](leetcode/0019-remove-nth-node-from-end-of-list/notes.md) |
+| 19 | Remove Nth Node From End of List | Medium | [solution.py](leetcode/0019-remove-nth-node-from-end-of-list/solution.py) | [notes.md](leetcode/0019-remove-nth-node-from-end-of-list/notes.md) |
 | 20 | Valid Parentheses | Easy | [solution.py](leetcode/0020-valid-parentheses/solution.py) | [notes.md](leetcode/0020-valid-parentheses/notes.md) |
 | 21 | Merge Two Sorted Lists | Easy | [solution.py](leetcode/0021-merge-two-sorted-lists/solution.py) | [notes.md](leetcode/0021-merge-two-sorted-lists/notes.md) |
 | 22 | Generate Parentheses | Medium | [solution.py](leetcode/0022-generate-parentheses/solution.py) | [notes.md](leetcode/0022-generate-parentheses/notes.md) |
@@ -25,7 +25,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 70 | Climbing Stairs | Easy | [solution.py](leetcode/0070-climbing-stairs/solution.py) | [notes.md](leetcode/0070-climbing-stairs/notes.md) |
 | 88 | Merge Sorted Array | Easy | [solution.py](leetcode/0088-merge-sorted-array/solution.py) | [notes.md](leetcode/0088-merge-sorted-array/notes.md) |
 | 94 | Binary Tree Inorder Traversal | Easy | [solution.py](leetcode/0094-binary-tree-inorder-traversal/solution.py) | [notes.md](leetcode/0094-binary-tree-inorder-traversal/notes.md) |
-| 100 | Binary Tree Level Order Traversal | Easy | [solution.py](leetcode/0100-binary-tree-level-order-traversal/solution.py) | [notes.md](leetcode/0100-binary-tree-level-order-traversal/notes.md) |
+| 102 | Binary Tree Level Order Traversal | Medium | [solution.py](leetcode/0102-binary-tree-level-order-traversal/solution.py) | [notes.md](leetcode/0102-binary-tree-level-order-traversal/notes.md) |
 | 101 | Symmetric Tree | Easy | [solution.py](leetcode/0101-symmetric-tree/solution.py) | [notes.md](leetcode/0101-symmetric-tree/notes.md) |
 | 104 | Maximum Depth of Binary Tree | Easy | [solution.py](leetcode/0104-maximum-depth-of-binary-tree/solution.py) | [notes.md](leetcode/0104-maximum-depth-of-binary-tree/notes.md) |
 | 108 | Convert Sorted Array to Binary Search Tree | Easy | [solution.py](leetcode/0108-convert-sorted-array-to-binary-search-tree/solution.py) | [notes.md](leetcode/0108-convert-sorted-array-to-binary-search-tree/notes.md) |
@@ -47,7 +47,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 | Date | Summary |
 | --- | --- |
-| [2026-05-15](logs/2026-05-15.md) | Contains Duplicate, Valid Anagram, Merge Sorted Array, Binary Tree Level Order Traversal, and Remove Nth Node From End implemented locally; submission verification pending |
+| [2026-05-15](logs/2026-05-15.md) | Contains Duplicate, Valid Anagram, Merge Sorted Array, Binary Tree Level Order Traversal, and Remove Nth Node From End submitted on LeetCode and accepted |
 | [2026-05-14](logs/2026-05-14.md) | Roman to Integer, Valid Parentheses, Single Number, Intersection of Two Linked Lists, Majority Element, Letter Combinations, Generate Parentheses, Combination Sum, Permutations, Reverse Linked List, Palindrome Linked List, and Move Zeroes accepted |
 | [2026-05-13](logs/2026-05-13.md) | Binary Tree Inorder Traversal, plus 10 accepted Top 100 Liked trial-run problems |
 | [2026-05-12](logs/2026-05-12.md) | Search Insert Position, Climbing Stairs |
