@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 34
-- Latest activity: 2026-05-16, Remove Duplicates from Sorted Array implemented and locally tested; LeetCode submission is still pending because browser access is blocked in this session
+- Solved problems: 35
+- Latest activity: 2026-05-16, Remove Duplicates from Sorted Array accepted on LeetCode
 - Language: Python3
 
 ## Problems
@@ -20,6 +20,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 20 | Valid Parentheses | Easy | [solution.py](leetcode/0020-valid-parentheses/solution.py) | [notes.md](leetcode/0020-valid-parentheses/notes.md) |
 | 21 | Merge Two Sorted Lists | Easy | [solution.py](leetcode/0021-merge-two-sorted-lists/solution.py) | [notes.md](leetcode/0021-merge-two-sorted-lists/notes.md) |
 | 22 | Generate Parentheses | Medium | [solution.py](leetcode/0022-generate-parentheses/solution.py) | [notes.md](leetcode/0022-generate-parentheses/notes.md) |
+| 26 | Remove Duplicates from Sorted Array | Easy | [solution.py](leetcode/0026-remove-duplicates-from-sorted-array/solution.py) | [notes.md](leetcode/0026-remove-duplicates-from-sorted-array/notes.md) |
 | 35 | Search Insert Position | Easy | [solution.py](leetcode/0035-search-insert-position/solution.py) | [notes.md](leetcode/0035-search-insert-position/notes.md) |
 | 39 | Combination Sum | Medium | [solution.py](leetcode/0039-combination-sum/solution.py) | [notes.md](leetcode/0039-combination-sum/notes.md) |
 | 46 | Permutations | Medium | [solution.py](leetcode/0046-permutations/solution.py) | [notes.md](leetcode/0046-permutations/notes.md) |
@@ -51,14 +52,13 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 | # | Problem | Difficulty | Solution | Notes | Status |
 | --- | --- | --- | --- | --- | --- |
-| 26 | Remove Duplicates from Sorted Array | Easy | [solution.py](leetcode/0026-remove-duplicates-from-sorted-array/solution.py) | [notes.md](leetcode/0026-remove-duplicates-from-sorted-array/notes.md) | Locally tested; LeetCode submission blocked in this run |
-| 131 | Palindrome Partitioning | Medium | [solution.py](leetcode/0131-palindrome-partitioning/solution.py) | [notes.md](leetcode/0131-palindrome-partitioning/notes.md) | Locally tested; LeetCode submission blocked in this run |
+| 131 | Palindrome Partitioning | Medium | [solution.py](leetcode/0131-palindrome-partitioning/solution.py) | [notes.md](leetcode/0131-palindrome-partitioning/notes.md) | Locally tested; LeetCode submission still pending |
 
 ## Daily Logs
 
 | Date | Summary |
 | --- | --- |
-| [2026-05-16](logs/2026-05-16.md) | Remove Duplicates from Sorted Array implemented and locally tested; LeetCode submission blocked by browser access denial |
+| [2026-05-16](logs/2026-05-16.md) | Remove Duplicates from Sorted Array accepted; Palindrome Partitioning remains locally tested only |
 | [2026-05-15](logs/2026-05-15.md) | Contains Duplicate, Valid Anagram, Merge Sorted Array, Binary Tree Level Order Traversal, Remove Nth Node From End of List, N-Queens, Longest Common Prefix, Subsets, and Word Search accepted |
 | [2026-05-14](logs/2026-05-14.md) | Roman to Integer, Valid Parentheses, Single Number, Intersection of Two Linked Lists, Majority Element, Letter Combinations, Generate Parentheses, Combination Sum, Permutations, Reverse Linked List, Palindrome Linked List, and Move Zeroes accepted |
 | [2026-05-13](logs/2026-05-13.md) | Binary Tree Inorder Traversal, plus 10 accepted Top 100 Liked trial-run problems |
