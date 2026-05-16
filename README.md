@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 35
-- Latest activity: 2026-05-16, Remove Duplicates from Sorted Array accepted on LeetCode
+- Solved problems: 36
+- Latest activity: 2026-05-16, Palindrome Partitioning accepted on LeetCode
 - Language: Python3
 
 ## Problems
@@ -36,6 +36,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 108 | Convert Sorted Array to Binary Search Tree | Easy | [solution.py](leetcode/0108-convert-sorted-array-to-binary-search-tree/solution.py) | [notes.md](leetcode/0108-convert-sorted-array-to-binary-search-tree/notes.md) |
 | 118 | Pascal's Triangle | Easy | [solution.py](leetcode/0118-pascals-triangle/solution.py) | [notes.md](leetcode/0118-pascals-triangle/notes.md) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [solution.py](leetcode/0121-best-time-to-buy-and-sell-stock/solution.py) | [notes.md](leetcode/0121-best-time-to-buy-and-sell-stock/notes.md) |
+| 131 | Palindrome Partitioning | Medium | [solution.py](leetcode/0131-palindrome-partitioning/solution.py) | [notes.md](leetcode/0131-palindrome-partitioning/notes.md) |
 | 136 | Single Number | Easy | [solution.py](leetcode/0136-single-number/solution.py) | [notes.md](leetcode/0136-single-number/notes.md) |
 | 141 | Linked List Cycle | Easy | [solution.py](leetcode/0141-linked-list-cycle/solution.py) | [notes.md](leetcode/0141-linked-list-cycle/notes.md) |
 | 160 | Intersection of Two Linked Lists | Easy | [solution.py](leetcode/0160-intersection-of-two-linked-lists/solution.py) | [notes.md](leetcode/0160-intersection-of-two-linked-lists/notes.md) |
@@ -50,15 +51,13 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Pending Submission
 
-| # | Problem | Difficulty | Solution | Notes | Status |
-| --- | --- | --- | --- | --- | --- |
-| 131 | Palindrome Partitioning | Medium | [solution.py](leetcode/0131-palindrome-partitioning/solution.py) | [notes.md](leetcode/0131-palindrome-partitioning/notes.md) | Locally tested; LeetCode submission still pending |
+No pending submissions.
 
 ## Daily Logs
 
 | Date | Summary |
 | --- | --- |
-| [2026-05-16](logs/2026-05-16.md) | Remove Duplicates from Sorted Array accepted; Palindrome Partitioning remains locally tested only |
+| [2026-05-16](logs/2026-05-16.md) | Remove Duplicates from Sorted Array and Palindrome Partitioning accepted |
 | [2026-05-15](logs/2026-05-15.md) | Contains Duplicate, Valid Anagram, Merge Sorted Array, Binary Tree Level Order Traversal, Remove Nth Node From End of List, N-Queens, Longest Common Prefix, Subsets, and Word Search accepted |
 | [2026-05-14](logs/2026-05-14.md) | Roman to Integer, Valid Parentheses, Single Number, Intersection of Two Linked Lists, Majority Element, Letter Combinations, Generate Parentheses, Combination Sum, Permutations, Reverse Linked List, Palindrome Linked List, and Move Zeroes accepted |
 | [2026-05-13](logs/2026-05-13.md) | Binary Tree Inorder Traversal, plus 10 accepted Top 100 Liked trial-run problems |
