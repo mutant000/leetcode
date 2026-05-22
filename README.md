@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 76
-- Latest activity: 2026-05-21, 9 pending Top 100 Liked Medium problems accepted and batch completed
+- Solved problems: 87
+- Latest activity: 2026-05-22, 10 Top 100 Liked Medium problems accepted plus Merge Intervals indexed
 - Language: Python3
 
 ## Problems
@@ -14,7 +14,9 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | --- | --- | --- | --- | --- |
 | 1 | Two Sum | Easy | [solution.py](leetcode/0001-two-sum/solution.py) | [notes.md](leetcode/0001-two-sum/notes.md) |
 | 2 | Add Two Numbers | Medium | [solution.py](leetcode/0002-add-two-numbers/solution.py) | [notes.md](leetcode/0002-add-two-numbers/notes.md) |
+| 3 | Longest Substring Without Repeating Characters | Medium | [solution.py](leetcode/0003-longest-substring-without-repeating-characters/solution.py) | [notes.md](leetcode/0003-longest-substring-without-repeating-characters/notes.md) |
 | 5 | Longest Palindromic Substring | Medium | [solution.py](leetcode/0005-longest-palindromic-substring/solution.py) | [notes.md](leetcode/0005-longest-palindromic-substring/notes.md) |
+| 11 | Container With Most Water | Medium | [solution.py](leetcode/0011-container-with-most-water/solution.py) | [notes.md](leetcode/0011-container-with-most-water/notes.md) |
 | 13 | Roman to Integer | Easy | [solution.py](leetcode/0013-roman-to-integer/solution.py) | [notes.md](leetcode/0013-roman-to-integer/notes.md) |
 | 14 | Longest Common Prefix | Easy | [solution.py](leetcode/0014-longest-common-prefix/solution.py) | [notes.md](leetcode/0014-longest-common-prefix/notes.md) |
 | 17 | Letter Combinations of a Phone Number | Medium | [solution.py](leetcode/0017-letter-combinations-of-a-phone-number/solution.py) | [notes.md](leetcode/0017-letter-combinations-of-a-phone-number/notes.md) |
@@ -30,13 +32,17 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 39 | Combination Sum | Medium | [solution.py](leetcode/0039-combination-sum/solution.py) | [notes.md](leetcode/0039-combination-sum/notes.md) |
 | 45 | Jump Game II | Medium | [solution.py](leetcode/0045-jump-game-ii/solution.py) | [notes.md](leetcode/0045-jump-game-ii/notes.md) |
 | 46 | Permutations | Medium | [solution.py](leetcode/0046-permutations/solution.py) | [notes.md](leetcode/0046-permutations/notes.md) |
+| 48 | Rotate Image | Medium | [solution.py](leetcode/0048-rotate-image/solution.py) | [notes.md](leetcode/0048-rotate-image/notes.md) |
 | 49 | Group Anagrams | Medium | [solution.py](leetcode/0049-group-anagrams/solution.py) | [notes.md](leetcode/0049-group-anagrams/notes.md) |
 | 51 | N-Queens | Hard | [solution.py](leetcode/0051-n-queens/solution.py) | [notes.md](leetcode/0051-n-queens/notes.md) |
+| 54 | Spiral Matrix | Medium | [solution.py](leetcode/0054-spiral-matrix/solution.py) | [notes.md](leetcode/0054-spiral-matrix/notes.md) |
 | 55 | Jump Game | Medium | [solution.py](leetcode/0055-jump-game/solution.py) | [notes.md](leetcode/0055-jump-game/notes.md) |
+| 56 | Merge Intervals | Medium | [solution.py](leetcode/0056-merge-intervals/solution.py) | [notes.md](leetcode/0056-merge-intervals/notes.md) |
 | 62 | Unique Paths | Medium | [solution.py](leetcode/0062-unique-paths/solution.py) | [notes.md](leetcode/0062-unique-paths/notes.md) |
 | 64 | Minimum Path Sum | Medium | [solution.py](leetcode/0064-minimum-path-sum/solution.py) | [notes.md](leetcode/0064-minimum-path-sum/notes.md) |
 | 70 | Climbing Stairs | Easy | [solution.py](leetcode/0070-climbing-stairs/solution.py) | [notes.md](leetcode/0070-climbing-stairs/notes.md) |
 | 72 | Edit Distance | Medium | [solution.py](leetcode/0072-edit-distance/solution.py) | [notes.md](leetcode/0072-edit-distance/notes.md) |
+| 73 | Set Matrix Zeroes | Medium | [solution.py](leetcode/0073-set-matrix-zeroes/solution.py) | [notes.md](leetcode/0073-set-matrix-zeroes/notes.md) |
 | 74 | Search a 2D Matrix | Medium | [solution.py](leetcode/0074-search-a-2d-matrix/solution.py) | [notes.md](leetcode/0074-search-a-2d-matrix/notes.md) |
 | 78 | Subsets | Medium | [solution.py](leetcode/0078-subsets/solution.py) | [notes.md](leetcode/0078-subsets/notes.md) |
 | 79 | Word Search | Medium | [solution.py](leetcode/0079-word-search/solution.py) | [notes.md](leetcode/0079-word-search/notes.md) |
@@ -62,6 +68,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 148 | Sort List | Medium | [solution.py](leetcode/0148-sort-list/solution.py) | [notes.md](leetcode/0148-sort-list/notes.md) |
 | 152 | Maximum Product Subarray | Medium | [solution.py](leetcode/0152-maximum-product-subarray/solution.py) | [notes.md](leetcode/0152-maximum-product-subarray/notes.md) |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | [solution.py](leetcode/0153-find-minimum-in-rotated-sorted-array/solution.py) | [notes.md](leetcode/0153-find-minimum-in-rotated-sorted-array/notes.md) |
+| 155 | Min Stack | Medium | [solution.py](leetcode/0155-min-stack/solution.py) | [notes.md](leetcode/0155-min-stack/notes.md) |
 | 160 | Intersection of Two Linked Lists | Easy | [solution.py](leetcode/0160-intersection-of-two-linked-lists/solution.py) | [notes.md](leetcode/0160-intersection-of-two-linked-lists/notes.md) |
 | 169 | Majority Element | Easy | [solution.py](leetcode/0169-majority-element/solution.py) | [notes.md](leetcode/0169-majority-element/notes.md) |
 | 198 | House Robber | Medium | [solution.py](leetcode/0198-house-robber/solution.py) | [notes.md](leetcode/0198-house-robber/notes.md) |
@@ -75,16 +82,20 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 230 | Kth Smallest Element in a BST | Medium | [solution.py](leetcode/0230-kth-smallest-element-in-a-bst/solution.py) | [notes.md](leetcode/0230-kth-smallest-element-in-a-bst/notes.md) |
 | 234 | Palindrome Linked List | Easy | [solution.py](leetcode/0234-palindrome-linked-list/solution.py) | [notes.md](leetcode/0234-palindrome-linked-list/notes.md) |
 | 236 | Lowest Common Ancestor of a Binary Tree | Medium | [solution.py](leetcode/0236-lowest-common-ancestor-of-a-binary-tree/solution.py) | [notes.md](leetcode/0236-lowest-common-ancestor-of-a-binary-tree/notes.md) |
+| 240 | Search a 2D Matrix II | Medium | [solution.py](leetcode/0240-search-a-2d-matrix-ii/solution.py) | [notes.md](leetcode/0240-search-a-2d-matrix-ii/notes.md) |
 | 242 | Valid Anagram | Easy | [solution.py](leetcode/0242-valid-anagram/solution.py) | [notes.md](leetcode/0242-valid-anagram/notes.md) |
 | 279 | Perfect Squares | Medium | [solution.py](leetcode/0279-perfect-squares/solution.py) | [notes.md](leetcode/0279-perfect-squares/notes.md) |
 | 283 | Move Zeroes | Easy | [solution.py](leetcode/0283-move-zeroes/solution.py) | [notes.md](leetcode/0283-move-zeroes/notes.md) |
 | 300 | Longest Increasing Subsequence | Medium | [solution.py](leetcode/0300-longest-increasing-subsequence/solution.py) | [notes.md](leetcode/0300-longest-increasing-subsequence/notes.md) |
 | 322 | Coin Change | Medium | [solution.py](leetcode/0322-coin-change/solution.py) | [notes.md](leetcode/0322-coin-change/notes.md) |
 | 347 | Top K Frequent Elements | Medium | [solution.py](leetcode/0347-top-k-frequent-elements/solution.py) | [notes.md](leetcode/0347-top-k-frequent-elements/notes.md) |
+| 394 | Decode String | Medium | [solution.py](leetcode/0394-decode-string/solution.py) | [notes.md](leetcode/0394-decode-string/notes.md) |
 | 416 | Partition Equal Subset Sum | Medium | [solution.py](leetcode/0416-partition-equal-subset-sum/solution.py) | [notes.md](leetcode/0416-partition-equal-subset-sum/notes.md) |
 | 437 | Path Sum III | Medium | [solution.py](leetcode/0437-path-sum-iii/solution.py) | [notes.md](leetcode/0437-path-sum-iii/notes.md) |
+| 438 | Find All Anagrams in a String | Medium | [solution.py](leetcode/0438-find-all-anagrams-in-a-string/solution.py) | [notes.md](leetcode/0438-find-all-anagrams-in-a-string/notes.md) |
 | 543 | Diameter of Binary Tree | Easy | [solution.py](leetcode/0543-diameter-of-binary-tree/solution.py) | [notes.md](leetcode/0543-diameter-of-binary-tree/notes.md) |
 | 560 | Subarray Sum Equals K | Medium | [solution.py](leetcode/0560-subarray-sum-equals-k/solution.py) | [notes.md](leetcode/0560-subarray-sum-equals-k/notes.md) |
+| 739 | Daily Temperatures | Medium | [solution.py](leetcode/0739-daily-temperatures/solution.py) | [notes.md](leetcode/0739-daily-temperatures/notes.md) |
 | 763 | Partition Labels | Medium | [solution.py](leetcode/0763-partition-labels/solution.py) | [notes.md](leetcode/0763-partition-labels/notes.md) |
 | 994 | Rotting Oranges | Medium | [solution.py](leetcode/0994-rotting-oranges/solution.py) | [notes.md](leetcode/0994-rotting-oranges/notes.md) |
 | 1143 | Longest Common Subsequence | Medium | [solution.py](leetcode/1143-longest-common-subsequence/solution.py) | [notes.md](leetcode/1143-longest-common-subsequence/notes.md) |
@@ -97,6 +108,7 @@ No pending submissions.
 
 | Date | Summary |
 | --- | --- |
+| [2026-05-22](logs/2026-05-22.md) | 10 Top 100 Liked Medium problems accepted plus Merge Intervals indexed |
 | [2026-05-21](logs/2026-05-21.md) | 9 pending Top 100 Liked Medium problems accepted and batch completed |
 | [2026-05-20](logs/2026-05-20.md) | Longest Consecutive Sequence accepted; 2 submissions awaiting verdict; remaining prepared solutions pending |
 | [2026-05-19](logs/2026-05-19.md) | 10 Top 100 Liked Medium problems accepted |
