@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 87
-- Latest activity: 2026-05-22, 10 Top 100 Liked Medium problems accepted plus Merge Intervals indexed
+- Solved problems: 97
+- Latest activity: 2026-05-25, 8 remaining Top 100 Liked Medium problems and first 2 Hard problems accepted
 - Language: Python3
 
 ## Problems
@@ -15,10 +15,12 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 1 | Two Sum | Easy | [solution.py](leetcode/0001-two-sum/solution.py) | [notes.md](leetcode/0001-two-sum/notes.md) |
 | 2 | Add Two Numbers | Medium | [solution.py](leetcode/0002-add-two-numbers/solution.py) | [notes.md](leetcode/0002-add-two-numbers/notes.md) |
 | 3 | Longest Substring Without Repeating Characters | Medium | [solution.py](leetcode/0003-longest-substring-without-repeating-characters/solution.py) | [notes.md](leetcode/0003-longest-substring-without-repeating-characters/notes.md) |
+| 4 | Median of Two Sorted Arrays | Hard | [solution.py](leetcode/0004-median-of-two-sorted-arrays/solution.py) | [notes.md](leetcode/0004-median-of-two-sorted-arrays/notes.md) |
 | 5 | Longest Palindromic Substring | Medium | [solution.py](leetcode/0005-longest-palindromic-substring/solution.py) | [notes.md](leetcode/0005-longest-palindromic-substring/notes.md) |
 | 11 | Container With Most Water | Medium | [solution.py](leetcode/0011-container-with-most-water/solution.py) | [notes.md](leetcode/0011-container-with-most-water/notes.md) |
 | 13 | Roman to Integer | Easy | [solution.py](leetcode/0013-roman-to-integer/solution.py) | [notes.md](leetcode/0013-roman-to-integer/notes.md) |
 | 14 | Longest Common Prefix | Easy | [solution.py](leetcode/0014-longest-common-prefix/solution.py) | [notes.md](leetcode/0014-longest-common-prefix/notes.md) |
+| 15 | 3Sum | Medium | [solution.py](leetcode/0015-3sum/solution.py) | [notes.md](leetcode/0015-3sum/notes.md) |
 | 17 | Letter Combinations of a Phone Number | Medium | [solution.py](leetcode/0017-letter-combinations-of-a-phone-number/solution.py) | [notes.md](leetcode/0017-letter-combinations-of-a-phone-number/notes.md) |
 | 19 | Remove Nth Node From End of List | Medium | [solution.py](leetcode/0019-remove-nth-node-from-end-of-list/solution.py) | [notes.md](leetcode/0019-remove-nth-node-from-end-of-list/notes.md) |
 | 20 | Valid Parentheses | Easy | [solution.py](leetcode/0020-valid-parentheses/solution.py) | [notes.md](leetcode/0020-valid-parentheses/notes.md) |
@@ -26,6 +28,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 22 | Generate Parentheses | Medium | [solution.py](leetcode/0022-generate-parentheses/solution.py) | [notes.md](leetcode/0022-generate-parentheses/notes.md) |
 | 24 | Swap Nodes in Pairs | Medium | [solution.py](leetcode/0024-swap-nodes-in-pairs/solution.py) | [notes.md](leetcode/0024-swap-nodes-in-pairs/notes.md) |
 | 26 | Remove Duplicates from Sorted Array | Easy | [solution.py](leetcode/0026-remove-duplicates-from-sorted-array/solution.py) | [notes.md](leetcode/0026-remove-duplicates-from-sorted-array/notes.md) |
+| 31 | Next Permutation | Medium | [solution.py](leetcode/0031-next-permutation/solution.py) | [notes.md](leetcode/0031-next-permutation/notes.md) |
 | 33 | Search in Rotated Sorted Array | Medium | [solution.py](leetcode/0033-search-in-rotated-sorted-array/solution.py) | [notes.md](leetcode/0033-search-in-rotated-sorted-array/notes.md) |
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | [solution.py](leetcode/0034-find-first-and-last-position-of-element-in-sorted-array/solution.py) | [notes.md](leetcode/0034-find-first-and-last-position-of-element-in-sorted-array/notes.md) |
 | 35 | Search Insert Position | Easy | [solution.py](leetcode/0035-search-insert-position/solution.py) | [notes.md](leetcode/0035-search-insert-position/notes.md) |
@@ -35,6 +38,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 48 | Rotate Image | Medium | [solution.py](leetcode/0048-rotate-image/solution.py) | [notes.md](leetcode/0048-rotate-image/notes.md) |
 | 49 | Group Anagrams | Medium | [solution.py](leetcode/0049-group-anagrams/solution.py) | [notes.md](leetcode/0049-group-anagrams/notes.md) |
 | 51 | N-Queens | Hard | [solution.py](leetcode/0051-n-queens/solution.py) | [notes.md](leetcode/0051-n-queens/notes.md) |
+| 53 | Maximum Subarray | Medium | [solution.py](leetcode/0053-maximum-subarray/solution.py) | [notes.md](leetcode/0053-maximum-subarray/notes.md) |
 | 54 | Spiral Matrix | Medium | [solution.py](leetcode/0054-spiral-matrix/solution.py) | [notes.md](leetcode/0054-spiral-matrix/notes.md) |
 | 55 | Jump Game | Medium | [solution.py](leetcode/0055-jump-game/solution.py) | [notes.md](leetcode/0055-jump-game/notes.md) |
 | 56 | Merge Intervals | Medium | [solution.py](leetcode/0056-merge-intervals/solution.py) | [notes.md](leetcode/0056-merge-intervals/notes.md) |
@@ -44,6 +48,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 72 | Edit Distance | Medium | [solution.py](leetcode/0072-edit-distance/solution.py) | [notes.md](leetcode/0072-edit-distance/notes.md) |
 | 73 | Set Matrix Zeroes | Medium | [solution.py](leetcode/0073-set-matrix-zeroes/solution.py) | [notes.md](leetcode/0073-set-matrix-zeroes/notes.md) |
 | 74 | Search a 2D Matrix | Medium | [solution.py](leetcode/0074-search-a-2d-matrix/solution.py) | [notes.md](leetcode/0074-search-a-2d-matrix/notes.md) |
+| 75 | Sort Colors | Medium | [solution.py](leetcode/0075-sort-colors/solution.py) | [notes.md](leetcode/0075-sort-colors/notes.md) |
 | 78 | Subsets | Medium | [solution.py](leetcode/0078-subsets/solution.py) | [notes.md](leetcode/0078-subsets/notes.md) |
 | 79 | Word Search | Medium | [solution.py](leetcode/0079-word-search/solution.py) | [notes.md](leetcode/0079-word-search/notes.md) |
 | 88 | Merge Sorted Array | Easy | [solution.py](leetcode/0088-merge-sorted-array/solution.py) | [notes.md](leetcode/0088-merge-sorted-array/notes.md) |
@@ -57,6 +62,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 114 | Flatten Binary Tree to Linked List | Medium | [solution.py](leetcode/0114-flatten-binary-tree-to-linked-list/solution.py) | [notes.md](leetcode/0114-flatten-binary-tree-to-linked-list/notes.md) |
 | 118 | Pascal's Triangle | Easy | [solution.py](leetcode/0118-pascals-triangle/solution.py) | [notes.md](leetcode/0118-pascals-triangle/notes.md) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [solution.py](leetcode/0121-best-time-to-buy-and-sell-stock/solution.py) | [notes.md](leetcode/0121-best-time-to-buy-and-sell-stock/notes.md) |
+| 124 | Binary Tree Maximum Path Sum | Hard | [solution.py](leetcode/0124-binary-tree-maximum-path-sum/solution.py) | [notes.md](leetcode/0124-binary-tree-maximum-path-sum/notes.md) |
 | 128 | Longest Consecutive Sequence | Medium | [solution.py](leetcode/0128-longest-consecutive-sequence/solution.py) | [notes.md](leetcode/0128-longest-consecutive-sequence/notes.md) |
 | 131 | Palindrome Partitioning | Medium | [solution.py](leetcode/0131-palindrome-partitioning/solution.py) | [notes.md](leetcode/0131-palindrome-partitioning/notes.md) |
 | 136 | Single Number | Easy | [solution.py](leetcode/0136-single-number/solution.py) | [notes.md](leetcode/0136-single-number/notes.md) |
@@ -71,21 +77,25 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 155 | Min Stack | Medium | [solution.py](leetcode/0155-min-stack/solution.py) | [notes.md](leetcode/0155-min-stack/notes.md) |
 | 160 | Intersection of Two Linked Lists | Easy | [solution.py](leetcode/0160-intersection-of-two-linked-lists/solution.py) | [notes.md](leetcode/0160-intersection-of-two-linked-lists/notes.md) |
 | 169 | Majority Element | Easy | [solution.py](leetcode/0169-majority-element/solution.py) | [notes.md](leetcode/0169-majority-element/notes.md) |
+| 189 | Rotate Array | Medium | [solution.py](leetcode/0189-rotate-array/solution.py) | [notes.md](leetcode/0189-rotate-array/notes.md) |
 | 198 | House Robber | Medium | [solution.py](leetcode/0198-house-robber/solution.py) | [notes.md](leetcode/0198-house-robber/notes.md) |
 | 199 | Binary Tree Right Side View | Medium | [solution.py](leetcode/0199-binary-tree-right-side-view/solution.py) | [notes.md](leetcode/0199-binary-tree-right-side-view/notes.md) |
 | 200 | Number of Islands | Medium | [solution.py](leetcode/0200-number-of-islands/solution.py) | [notes.md](leetcode/0200-number-of-islands/notes.md) |
 | 206 | Reverse Linked List | Easy | [solution.py](leetcode/0206-reverse-linked-list/solution.py) | [notes.md](leetcode/0206-reverse-linked-list/notes.md) |
 | 207 | Course Schedule | Medium | [solution.py](leetcode/0207-course-schedule/solution.py) | [notes.md](leetcode/0207-course-schedule/notes.md) |
+| 208 | Implement Trie (Prefix Tree) | Medium | [solution.py](leetcode/0208-implement-trie-prefix-tree/solution.py) | [notes.md](leetcode/0208-implement-trie-prefix-tree/notes.md) |
 | 215 | Kth Largest Element in an Array | Medium | [solution.py](leetcode/0215-kth-largest-element-in-an-array/solution.py) | [notes.md](leetcode/0215-kth-largest-element-in-an-array/notes.md) |
 | 217 | Contains Duplicate | Easy | [solution.py](leetcode/0217-contains-duplicate/solution.py) | [notes.md](leetcode/0217-contains-duplicate/notes.md) |
 | 226 | Invert Binary Tree | Easy | [solution.py](leetcode/0226-invert-binary-tree/solution.py) | [notes.md](leetcode/0226-invert-binary-tree/notes.md) |
 | 230 | Kth Smallest Element in a BST | Medium | [solution.py](leetcode/0230-kth-smallest-element-in-a-bst/solution.py) | [notes.md](leetcode/0230-kth-smallest-element-in-a-bst/notes.md) |
 | 234 | Palindrome Linked List | Easy | [solution.py](leetcode/0234-palindrome-linked-list/solution.py) | [notes.md](leetcode/0234-palindrome-linked-list/notes.md) |
 | 236 | Lowest Common Ancestor of a Binary Tree | Medium | [solution.py](leetcode/0236-lowest-common-ancestor-of-a-binary-tree/solution.py) | [notes.md](leetcode/0236-lowest-common-ancestor-of-a-binary-tree/notes.md) |
+| 238 | Product of Array Except Self | Medium | [solution.py](leetcode/0238-product-of-array-except-self/solution.py) | [notes.md](leetcode/0238-product-of-array-except-self/notes.md) |
 | 240 | Search a 2D Matrix II | Medium | [solution.py](leetcode/0240-search-a-2d-matrix-ii/solution.py) | [notes.md](leetcode/0240-search-a-2d-matrix-ii/notes.md) |
 | 242 | Valid Anagram | Easy | [solution.py](leetcode/0242-valid-anagram/solution.py) | [notes.md](leetcode/0242-valid-anagram/notes.md) |
 | 279 | Perfect Squares | Medium | [solution.py](leetcode/0279-perfect-squares/solution.py) | [notes.md](leetcode/0279-perfect-squares/notes.md) |
 | 283 | Move Zeroes | Easy | [solution.py](leetcode/0283-move-zeroes/solution.py) | [notes.md](leetcode/0283-move-zeroes/notes.md) |
+| 287 | Find the Duplicate Number | Medium | [solution.py](leetcode/0287-find-the-duplicate-number/solution.py) | [notes.md](leetcode/0287-find-the-duplicate-number/notes.md) |
 | 300 | Longest Increasing Subsequence | Medium | [solution.py](leetcode/0300-longest-increasing-subsequence/solution.py) | [notes.md](leetcode/0300-longest-increasing-subsequence/notes.md) |
 | 322 | Coin Change | Medium | [solution.py](leetcode/0322-coin-change/solution.py) | [notes.md](leetcode/0322-coin-change/notes.md) |
 | 347 | Top K Frequent Elements | Medium | [solution.py](leetcode/0347-top-k-frequent-elements/solution.py) | [notes.md](leetcode/0347-top-k-frequent-elements/notes.md) |
@@ -108,6 +118,7 @@ No pending submissions.
 
 | Date | Summary |
 | --- | --- |
+| [2026-05-25](logs/2026-05-25.md) | 8 remaining Top 100 Liked Medium problems and first 2 Hard problems accepted |
 | [2026-05-22](logs/2026-05-22.md) | 10 Top 100 Liked Medium problems accepted plus Merge Intervals indexed |
 | [2026-05-21](logs/2026-05-21.md) | 9 pending Top 100 Liked Medium problems accepted and batch completed |
 | [2026-05-20](logs/2026-05-20.md) | Longest Consecutive Sequence accepted; 2 submissions awaiting verdict; remaining prepared solutions pending |
