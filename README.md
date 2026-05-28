@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 97
-- Latest activity: 2026-05-25, 8 remaining Top 100 Liked Medium problems and first 2 Hard problems accepted
+- Solved problems: 107
+- Latest activity: 2026-05-28, remaining Top 100 Liked Hard problems completed and first Top Interview 150 problem accepted
 - Language: Python3
 
 ## Problems
@@ -26,13 +26,19 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 20 | Valid Parentheses | Easy | [solution.py](leetcode/0020-valid-parentheses/solution.py) | [notes.md](leetcode/0020-valid-parentheses/notes.md) |
 | 21 | Merge Two Sorted Lists | Easy | [solution.py](leetcode/0021-merge-two-sorted-lists/solution.py) | [notes.md](leetcode/0021-merge-two-sorted-lists/notes.md) |
 | 22 | Generate Parentheses | Medium | [solution.py](leetcode/0022-generate-parentheses/solution.py) | [notes.md](leetcode/0022-generate-parentheses/notes.md) |
+| 23 | Merge k Sorted Lists | Hard | [solution.py](leetcode/0023-merge-k-sorted-lists/solution.py) | [notes.md](leetcode/0023-merge-k-sorted-lists/notes.md) |
 | 24 | Swap Nodes in Pairs | Medium | [solution.py](leetcode/0024-swap-nodes-in-pairs/solution.py) | [notes.md](leetcode/0024-swap-nodes-in-pairs/notes.md) |
+| 25 | Reverse Nodes in k-Group | Hard | [solution.py](leetcode/0025-reverse-nodes-in-k-group/solution.py) | [notes.md](leetcode/0025-reverse-nodes-in-k-group/notes.md) |
 | 26 | Remove Duplicates from Sorted Array | Easy | [solution.py](leetcode/0026-remove-duplicates-from-sorted-array/solution.py) | [notes.md](leetcode/0026-remove-duplicates-from-sorted-array/notes.md) |
+| 27 | Remove Element | Easy | [solution.py](leetcode/0027-remove-element/solution.py) | [notes.md](leetcode/0027-remove-element/notes.md) |
 | 31 | Next Permutation | Medium | [solution.py](leetcode/0031-next-permutation/solution.py) | [notes.md](leetcode/0031-next-permutation/notes.md) |
+| 32 | Longest Valid Parentheses | Hard | [solution.py](leetcode/0032-longest-valid-parentheses/solution.py) | [notes.md](leetcode/0032-longest-valid-parentheses/notes.md) |
 | 33 | Search in Rotated Sorted Array | Medium | [solution.py](leetcode/0033-search-in-rotated-sorted-array/solution.py) | [notes.md](leetcode/0033-search-in-rotated-sorted-array/notes.md) |
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | [solution.py](leetcode/0034-find-first-and-last-position-of-element-in-sorted-array/solution.py) | [notes.md](leetcode/0034-find-first-and-last-position-of-element-in-sorted-array/notes.md) |
 | 35 | Search Insert Position | Easy | [solution.py](leetcode/0035-search-insert-position/solution.py) | [notes.md](leetcode/0035-search-insert-position/notes.md) |
 | 39 | Combination Sum | Medium | [solution.py](leetcode/0039-combination-sum/solution.py) | [notes.md](leetcode/0039-combination-sum/notes.md) |
+| 41 | First Missing Positive | Hard | [solution.py](leetcode/0041-first-missing-positive/solution.py) | [notes.md](leetcode/0041-first-missing-positive/notes.md) |
+| 42 | Trapping Rain Water | Hard | [solution.py](leetcode/0042-trapping-rain-water/solution.py) | [notes.md](leetcode/0042-trapping-rain-water/notes.md) |
 | 45 | Jump Game II | Medium | [solution.py](leetcode/0045-jump-game-ii/solution.py) | [notes.md](leetcode/0045-jump-game-ii/notes.md) |
 | 46 | Permutations | Medium | [solution.py](leetcode/0046-permutations/solution.py) | [notes.md](leetcode/0046-permutations/notes.md) |
 | 48 | Rotate Image | Medium | [solution.py](leetcode/0048-rotate-image/solution.py) | [notes.md](leetcode/0048-rotate-image/notes.md) |
@@ -49,13 +55,15 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 73 | Set Matrix Zeroes | Medium | [solution.py](leetcode/0073-set-matrix-zeroes/solution.py) | [notes.md](leetcode/0073-set-matrix-zeroes/notes.md) |
 | 74 | Search a 2D Matrix | Medium | [solution.py](leetcode/0074-search-a-2d-matrix/solution.py) | [notes.md](leetcode/0074-search-a-2d-matrix/notes.md) |
 | 75 | Sort Colors | Medium | [solution.py](leetcode/0075-sort-colors/solution.py) | [notes.md](leetcode/0075-sort-colors/notes.md) |
+| 76 | Minimum Window Substring | Hard | [solution.py](leetcode/0076-minimum-window-substring/solution.py) | [notes.md](leetcode/0076-minimum-window-substring/notes.md) |
 | 78 | Subsets | Medium | [solution.py](leetcode/0078-subsets/solution.py) | [notes.md](leetcode/0078-subsets/notes.md) |
 | 79 | Word Search | Medium | [solution.py](leetcode/0079-word-search/solution.py) | [notes.md](leetcode/0079-word-search/notes.md) |
+| 84 | Largest Rectangle in Histogram | Hard | [solution.py](leetcode/0084-largest-rectangle-in-histogram/solution.py) | [notes.md](leetcode/0084-largest-rectangle-in-histogram/notes.md) |
 | 88 | Merge Sorted Array | Easy | [solution.py](leetcode/0088-merge-sorted-array/solution.py) | [notes.md](leetcode/0088-merge-sorted-array/notes.md) |
 | 94 | Binary Tree Inorder Traversal | Easy | [solution.py](leetcode/0094-binary-tree-inorder-traversal/solution.py) | [notes.md](leetcode/0094-binary-tree-inorder-traversal/notes.md) |
 | 98 | Validate Binary Search Tree | Medium | [solution.py](leetcode/0098-validate-binary-search-tree/solution.py) | [notes.md](leetcode/0098-validate-binary-search-tree/notes.md) |
-| 102 | Binary Tree Level Order Traversal | Medium | [solution.py](leetcode/0102-binary-tree-level-order-traversal/solution.py) | [notes.md](leetcode/0102-binary-tree-level-order-traversal/notes.md) |
 | 101 | Symmetric Tree | Easy | [solution.py](leetcode/0101-symmetric-tree/solution.py) | [notes.md](leetcode/0101-symmetric-tree/notes.md) |
+| 102 | Binary Tree Level Order Traversal | Medium | [solution.py](leetcode/0102-binary-tree-level-order-traversal/solution.py) | [notes.md](leetcode/0102-binary-tree-level-order-traversal/notes.md) |
 | 104 | Maximum Depth of Binary Tree | Easy | [solution.py](leetcode/0104-maximum-depth-of-binary-tree/solution.py) | [notes.md](leetcode/0104-maximum-depth-of-binary-tree/notes.md) |
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | [solution.py](leetcode/0105-construct-binary-tree-from-preorder-and-inorder-traversal/solution.py) | [notes.md](leetcode/0105-construct-binary-tree-from-preorder-and-inorder-traversal/notes.md) |
 | 108 | Convert Sorted Array to Binary Search Tree | Easy | [solution.py](leetcode/0108-convert-sorted-array-to-binary-search-tree/solution.py) | [notes.md](leetcode/0108-convert-sorted-array-to-binary-search-tree/notes.md) |
@@ -91,11 +99,13 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 234 | Palindrome Linked List | Easy | [solution.py](leetcode/0234-palindrome-linked-list/solution.py) | [notes.md](leetcode/0234-palindrome-linked-list/notes.md) |
 | 236 | Lowest Common Ancestor of a Binary Tree | Medium | [solution.py](leetcode/0236-lowest-common-ancestor-of-a-binary-tree/solution.py) | [notes.md](leetcode/0236-lowest-common-ancestor-of-a-binary-tree/notes.md) |
 | 238 | Product of Array Except Self | Medium | [solution.py](leetcode/0238-product-of-array-except-self/solution.py) | [notes.md](leetcode/0238-product-of-array-except-self/notes.md) |
+| 239 | Sliding Window Maximum | Hard | [solution.py](leetcode/0239-sliding-window-maximum/solution.py) | [notes.md](leetcode/0239-sliding-window-maximum/notes.md) |
 | 240 | Search a 2D Matrix II | Medium | [solution.py](leetcode/0240-search-a-2d-matrix-ii/solution.py) | [notes.md](leetcode/0240-search-a-2d-matrix-ii/notes.md) |
 | 242 | Valid Anagram | Easy | [solution.py](leetcode/0242-valid-anagram/solution.py) | [notes.md](leetcode/0242-valid-anagram/notes.md) |
 | 279 | Perfect Squares | Medium | [solution.py](leetcode/0279-perfect-squares/solution.py) | [notes.md](leetcode/0279-perfect-squares/notes.md) |
 | 283 | Move Zeroes | Easy | [solution.py](leetcode/0283-move-zeroes/solution.py) | [notes.md](leetcode/0283-move-zeroes/notes.md) |
 | 287 | Find the Duplicate Number | Medium | [solution.py](leetcode/0287-find-the-duplicate-number/solution.py) | [notes.md](leetcode/0287-find-the-duplicate-number/notes.md) |
+| 295 | Find Median from Data Stream | Hard | [solution.py](leetcode/0295-find-median-from-data-stream/solution.py) | [notes.md](leetcode/0295-find-median-from-data-stream/notes.md) |
 | 300 | Longest Increasing Subsequence | Medium | [solution.py](leetcode/0300-longest-increasing-subsequence/solution.py) | [notes.md](leetcode/0300-longest-increasing-subsequence/notes.md) |
 | 322 | Coin Change | Medium | [solution.py](leetcode/0322-coin-change/solution.py) | [notes.md](leetcode/0322-coin-change/notes.md) |
 | 347 | Top K Frequent Elements | Medium | [solution.py](leetcode/0347-top-k-frequent-elements/solution.py) | [notes.md](leetcode/0347-top-k-frequent-elements/notes.md) |
@@ -118,6 +128,7 @@ No pending submissions.
 
 | Date | Summary |
 | --- | --- |
+| [2026-05-28](logs/2026-05-28.md) | Remaining Top 100 Liked Hard problems completed and first Top Interview 150 problem accepted |
 | [2026-05-25](logs/2026-05-25.md) | 8 remaining Top 100 Liked Medium problems and first 2 Hard problems accepted |
 | [2026-05-22](logs/2026-05-22.md) | 10 Top 100 Liked Medium problems accepted plus Merge Intervals indexed |
 | [2026-05-21](logs/2026-05-21.md) | 9 pending Top 100 Liked Medium problems accepted and batch completed |
