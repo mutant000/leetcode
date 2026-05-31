@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 117
-- Latest activity: 2026-05-29, 10 Top Interview 150 Array/String problems accepted
+- Solved problems: 127
+- Latest activity: 2026-05-31, 10 Top Interview 150 problems accepted
 - Language: Python3
 
 ## Problems
@@ -33,11 +33,14 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 25 | Reverse Nodes in k-Group | Hard | [solution.py](leetcode/0025-reverse-nodes-in-k-group/solution.py) | [notes.md](leetcode/0025-reverse-nodes-in-k-group/notes.md) |
 | 26 | Remove Duplicates from Sorted Array | Easy | [solution.py](leetcode/0026-remove-duplicates-from-sorted-array/solution.py) | [notes.md](leetcode/0026-remove-duplicates-from-sorted-array/notes.md) |
 | 27 | Remove Element | Easy | [solution.py](leetcode/0027-remove-element/solution.py) | [notes.md](leetcode/0027-remove-element/notes.md) |
+| 28 | Find the Index of the First Occurrence in a String | Easy | [solution.py](leetcode/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.py) | [notes.md](leetcode/0028-find-the-index-of-the-first-occurrence-in-a-string/notes.md) |
+| 30 | Substring with Concatenation of All Words | Hard | [solution.py](leetcode/0030-substring-with-concatenation-of-all-words/solution.py) | [notes.md](leetcode/0030-substring-with-concatenation-of-all-words/notes.md) |
 | 31 | Next Permutation | Medium | [solution.py](leetcode/0031-next-permutation/solution.py) | [notes.md](leetcode/0031-next-permutation/notes.md) |
 | 32 | Longest Valid Parentheses | Hard | [solution.py](leetcode/0032-longest-valid-parentheses/solution.py) | [notes.md](leetcode/0032-longest-valid-parentheses/notes.md) |
 | 33 | Search in Rotated Sorted Array | Medium | [solution.py](leetcode/0033-search-in-rotated-sorted-array/solution.py) | [notes.md](leetcode/0033-search-in-rotated-sorted-array/notes.md) |
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | [solution.py](leetcode/0034-find-first-and-last-position-of-element-in-sorted-array/solution.py) | [notes.md](leetcode/0034-find-first-and-last-position-of-element-in-sorted-array/notes.md) |
 | 35 | Search Insert Position | Easy | [solution.py](leetcode/0035-search-insert-position/solution.py) | [notes.md](leetcode/0035-search-insert-position/notes.md) |
+| 36 | Valid Sudoku | Medium | [solution.py](leetcode/0036-valid-sudoku/solution.py) | [notes.md](leetcode/0036-valid-sudoku/notes.md) |
 | 39 | Combination Sum | Medium | [solution.py](leetcode/0039-combination-sum/solution.py) | [notes.md](leetcode/0039-combination-sum/notes.md) |
 | 41 | First Missing Positive | Hard | [solution.py](leetcode/0041-first-missing-positive/solution.py) | [notes.md](leetcode/0041-first-missing-positive/notes.md) |
 | 42 | Trapping Rain Water | Hard | [solution.py](leetcode/0042-trapping-rain-water/solution.py) | [notes.md](leetcode/0042-trapping-rain-water/notes.md) |
@@ -53,6 +56,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 58 | Length of Last Word | Easy | [solution.py](leetcode/0058-length-of-last-word/solution.py) | [notes.md](leetcode/0058-length-of-last-word/notes.md) |
 | 62 | Unique Paths | Medium | [solution.py](leetcode/0062-unique-paths/solution.py) | [notes.md](leetcode/0062-unique-paths/notes.md) |
 | 64 | Minimum Path Sum | Medium | [solution.py](leetcode/0064-minimum-path-sum/solution.py) | [notes.md](leetcode/0064-minimum-path-sum/notes.md) |
+| 68 | Text Justification | Hard | [solution.py](leetcode/0068-text-justification/solution.py) | [notes.md](leetcode/0068-text-justification/notes.md) |
 | 70 | Climbing Stairs | Easy | [solution.py](leetcode/0070-climbing-stairs/solution.py) | [notes.md](leetcode/0070-climbing-stairs/notes.md) |
 | 72 | Edit Distance | Medium | [solution.py](leetcode/0072-edit-distance/solution.py) | [notes.md](leetcode/0072-edit-distance/notes.md) |
 | 73 | Set Matrix Zeroes | Medium | [solution.py](leetcode/0073-set-matrix-zeroes/solution.py) | [notes.md](leetcode/0073-set-matrix-zeroes/notes.md) |
@@ -76,6 +80,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 121 | Best Time to Buy and Sell Stock | Easy | [solution.py](leetcode/0121-best-time-to-buy-and-sell-stock/solution.py) | [notes.md](leetcode/0121-best-time-to-buy-and-sell-stock/notes.md) |
 | 122 | Best Time to Buy and Sell Stock II | Medium | [solution.py](leetcode/0122-best-time-to-buy-and-sell-stock-ii/solution.py) | [notes.md](leetcode/0122-best-time-to-buy-and-sell-stock-ii/notes.md) |
 | 124 | Binary Tree Maximum Path Sum | Hard | [solution.py](leetcode/0124-binary-tree-maximum-path-sum/solution.py) | [notes.md](leetcode/0124-binary-tree-maximum-path-sum/notes.md) |
+| 125 | Valid Palindrome | Easy | [solution.py](leetcode/0125-valid-palindrome/solution.py) | [notes.md](leetcode/0125-valid-palindrome/notes.md) |
 | 128 | Longest Consecutive Sequence | Medium | [solution.py](leetcode/0128-longest-consecutive-sequence/solution.py) | [notes.md](leetcode/0128-longest-consecutive-sequence/notes.md) |
 | 131 | Palindrome Partitioning | Medium | [solution.py](leetcode/0131-palindrome-partitioning/solution.py) | [notes.md](leetcode/0131-palindrome-partitioning/notes.md) |
 | 134 | Gas Station | Medium | [solution.py](leetcode/0134-gas-station/solution.py) | [notes.md](leetcode/0134-gas-station/notes.md) |
@@ -92,6 +97,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 153 | Find Minimum in Rotated Sorted Array | Medium | [solution.py](leetcode/0153-find-minimum-in-rotated-sorted-array/solution.py) | [notes.md](leetcode/0153-find-minimum-in-rotated-sorted-array/notes.md) |
 | 155 | Min Stack | Medium | [solution.py](leetcode/0155-min-stack/solution.py) | [notes.md](leetcode/0155-min-stack/notes.md) |
 | 160 | Intersection of Two Linked Lists | Easy | [solution.py](leetcode/0160-intersection-of-two-linked-lists/solution.py) | [notes.md](leetcode/0160-intersection-of-two-linked-lists/notes.md) |
+| 167 | Two Sum II - Input Array Is Sorted | Medium | [solution.py](leetcode/0167-two-sum-ii-input-array-is-sorted/solution.py) | [notes.md](leetcode/0167-two-sum-ii-input-array-is-sorted/notes.md) |
 | 169 | Majority Element | Easy | [solution.py](leetcode/0169-majority-element/solution.py) | [notes.md](leetcode/0169-majority-element/notes.md) |
 | 189 | Rotate Array | Medium | [solution.py](leetcode/0189-rotate-array/solution.py) | [notes.md](leetcode/0189-rotate-array/notes.md) |
 | 198 | House Robber | Medium | [solution.py](leetcode/0198-house-robber/solution.py) | [notes.md](leetcode/0198-house-robber/notes.md) |
@@ -100,6 +106,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 206 | Reverse Linked List | Easy | [solution.py](leetcode/0206-reverse-linked-list/solution.py) | [notes.md](leetcode/0206-reverse-linked-list/notes.md) |
 | 207 | Course Schedule | Medium | [solution.py](leetcode/0207-course-schedule/solution.py) | [notes.md](leetcode/0207-course-schedule/notes.md) |
 | 208 | Implement Trie (Prefix Tree) | Medium | [solution.py](leetcode/0208-implement-trie-prefix-tree/solution.py) | [notes.md](leetcode/0208-implement-trie-prefix-tree/notes.md) |
+| 209 | Minimum Size Subarray Sum | Medium | [solution.py](leetcode/0209-minimum-size-subarray-sum/solution.py) | [notes.md](leetcode/0209-minimum-size-subarray-sum/notes.md) |
 | 215 | Kth Largest Element in an Array | Medium | [solution.py](leetcode/0215-kth-largest-element-in-an-array/solution.py) | [notes.md](leetcode/0215-kth-largest-element-in-an-array/notes.md) |
 | 217 | Contains Duplicate | Easy | [solution.py](leetcode/0217-contains-duplicate/solution.py) | [notes.md](leetcode/0217-contains-duplicate/notes.md) |
 | 226 | Invert Binary Tree | Easy | [solution.py](leetcode/0226-invert-binary-tree/solution.py) | [notes.md](leetcode/0226-invert-binary-tree/notes.md) |
@@ -114,11 +121,14 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 279 | Perfect Squares | Medium | [solution.py](leetcode/0279-perfect-squares/solution.py) | [notes.md](leetcode/0279-perfect-squares/notes.md) |
 | 283 | Move Zeroes | Easy | [solution.py](leetcode/0283-move-zeroes/solution.py) | [notes.md](leetcode/0283-move-zeroes/notes.md) |
 | 287 | Find the Duplicate Number | Medium | [solution.py](leetcode/0287-find-the-duplicate-number/solution.py) | [notes.md](leetcode/0287-find-the-duplicate-number/notes.md) |
+| 289 | Game of Life | Medium | [solution.py](leetcode/0289-game-of-life/solution.py) | [notes.md](leetcode/0289-game-of-life/notes.md) |
 | 295 | Find Median from Data Stream | Hard | [solution.py](leetcode/0295-find-median-from-data-stream/solution.py) | [notes.md](leetcode/0295-find-median-from-data-stream/notes.md) |
 | 300 | Longest Increasing Subsequence | Medium | [solution.py](leetcode/0300-longest-increasing-subsequence/solution.py) | [notes.md](leetcode/0300-longest-increasing-subsequence/notes.md) |
 | 322 | Coin Change | Medium | [solution.py](leetcode/0322-coin-change/solution.py) | [notes.md](leetcode/0322-coin-change/notes.md) |
 | 347 | Top K Frequent Elements | Medium | [solution.py](leetcode/0347-top-k-frequent-elements/solution.py) | [notes.md](leetcode/0347-top-k-frequent-elements/notes.md) |
 | 380 | Insert Delete GetRandom O(1) | Medium | [solution.py](leetcode/0380-insert-delete-getrandom-o1/solution.py) | [notes.md](leetcode/0380-insert-delete-getrandom-o1/notes.md) |
+| 383 | Ransom Note | Easy | [solution.py](leetcode/0383-ransom-note/solution.py) | [notes.md](leetcode/0383-ransom-note/notes.md) |
+| 392 | Is Subsequence | Easy | [solution.py](leetcode/0392-is-subsequence/solution.py) | [notes.md](leetcode/0392-is-subsequence/notes.md) |
 | 394 | Decode String | Medium | [solution.py](leetcode/0394-decode-string/solution.py) | [notes.md](leetcode/0394-decode-string/notes.md) |
 | 416 | Partition Equal Subset Sum | Medium | [solution.py](leetcode/0416-partition-equal-subset-sum/solution.py) | [notes.md](leetcode/0416-partition-equal-subset-sum/notes.md) |
 | 437 | Path Sum III | Medium | [solution.py](leetcode/0437-path-sum-iii/solution.py) | [notes.md](leetcode/0437-path-sum-iii/notes.md) |
@@ -138,6 +148,7 @@ No pending submissions.
 
 | Date | Summary |
 | --- | --- |
+| [2026-05-31](logs/2026-05-31.md) | 10 Top Interview 150 problems accepted |
 | [2026-05-29](logs/2026-05-29.md) | 10 Top Interview 150 Array/String problems accepted |
 | [2026-05-28](logs/2026-05-28.md) | Remaining Top 100 Liked Hard problems completed and first Top Interview 150 problem accepted |
 | [2026-05-25](logs/2026-05-25.md) | 8 remaining Top 100 Liked Medium problems and first 2 Hard problems accepted |
