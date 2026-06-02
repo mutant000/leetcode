@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 137
-- Latest activity: 2026-06-01, 10 Top Interview 150 hashmap, intervals, and stack problems accepted
+- Solved problems: 147
+- Latest activity: 2026-06-02, 10 Top Interview 150 linked-list and binary-tree problems accepted
 - Language: Python3
 
 ## Problems
@@ -55,6 +55,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 56 | Merge Intervals | Medium | [solution.py](leetcode/0056-merge-intervals/solution.py) | [notes.md](leetcode/0056-merge-intervals/notes.md) |
 | 57 | Insert Interval | Medium | [solution.py](leetcode/0057-insert-interval/solution.py) | [notes.md](leetcode/0057-insert-interval/notes.md) |
 | 58 | Length of Last Word | Easy | [solution.py](leetcode/0058-length-of-last-word/solution.py) | [notes.md](leetcode/0058-length-of-last-word/notes.md) |
+| 61 | Rotate List | Medium | [solution.py](leetcode/0061-rotate-list/solution.py) | [notes.md](leetcode/0061-rotate-list/notes.md) |
 | 62 | Unique Paths | Medium | [solution.py](leetcode/0062-unique-paths/solution.py) | [notes.md](leetcode/0062-unique-paths/notes.md) |
 | 64 | Minimum Path Sum | Medium | [solution.py](leetcode/0064-minimum-path-sum/solution.py) | [notes.md](leetcode/0064-minimum-path-sum/notes.md) |
 | 68 | Text Justification | Hard | [solution.py](leetcode/0068-text-justification/solution.py) | [notes.md](leetcode/0068-text-justification/notes.md) |
@@ -68,22 +69,30 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 78 | Subsets | Medium | [solution.py](leetcode/0078-subsets/solution.py) | [notes.md](leetcode/0078-subsets/notes.md) |
 | 79 | Word Search | Medium | [solution.py](leetcode/0079-word-search/solution.py) | [notes.md](leetcode/0079-word-search/notes.md) |
 | 80 | Remove Duplicates from Sorted Array II | Medium | [solution.py](leetcode/0080-remove-duplicates-from-sorted-array-ii/solution.py) | [notes.md](leetcode/0080-remove-duplicates-from-sorted-array-ii/notes.md) |
+| 82 | Remove Duplicates from Sorted List II | Medium | [solution.py](leetcode/0082-remove-duplicates-from-sorted-list-ii/solution.py) | [notes.md](leetcode/0082-remove-duplicates-from-sorted-list-ii/notes.md) |
 | 84 | Largest Rectangle in Histogram | Hard | [solution.py](leetcode/0084-largest-rectangle-in-histogram/solution.py) | [notes.md](leetcode/0084-largest-rectangle-in-histogram/notes.md) |
+| 86 | Partition List | Medium | [solution.py](leetcode/0086-partition-list/solution.py) | [notes.md](leetcode/0086-partition-list/notes.md) |
 | 88 | Merge Sorted Array | Easy | [solution.py](leetcode/0088-merge-sorted-array/solution.py) | [notes.md](leetcode/0088-merge-sorted-array/notes.md) |
+| 92 | Reverse Linked List II | Medium | [solution.py](leetcode/0092-reverse-linked-list-ii/solution.py) | [notes.md](leetcode/0092-reverse-linked-list-ii/notes.md) |
 | 94 | Binary Tree Inorder Traversal | Easy | [solution.py](leetcode/0094-binary-tree-inorder-traversal/solution.py) | [notes.md](leetcode/0094-binary-tree-inorder-traversal/notes.md) |
 | 98 | Validate Binary Search Tree | Medium | [solution.py](leetcode/0098-validate-binary-search-tree/solution.py) | [notes.md](leetcode/0098-validate-binary-search-tree/notes.md) |
+| 100 | Same Tree | Easy | [solution.py](leetcode/0100-same-tree/solution.py) | [notes.md](leetcode/0100-same-tree/notes.md) |
 | 101 | Symmetric Tree | Easy | [solution.py](leetcode/0101-symmetric-tree/solution.py) | [notes.md](leetcode/0101-symmetric-tree/notes.md) |
 | 102 | Binary Tree Level Order Traversal | Medium | [solution.py](leetcode/0102-binary-tree-level-order-traversal/solution.py) | [notes.md](leetcode/0102-binary-tree-level-order-traversal/notes.md) |
 | 104 | Maximum Depth of Binary Tree | Easy | [solution.py](leetcode/0104-maximum-depth-of-binary-tree/solution.py) | [notes.md](leetcode/0104-maximum-depth-of-binary-tree/notes.md) |
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | [solution.py](leetcode/0105-construct-binary-tree-from-preorder-and-inorder-traversal/solution.py) | [notes.md](leetcode/0105-construct-binary-tree-from-preorder-and-inorder-traversal/notes.md) |
+| 106 | Construct Binary Tree from Inorder and Postorder Traversal | Medium | [solution.py](leetcode/0106-construct-binary-tree-from-inorder-and-postorder-traversal/solution.py) | [notes.md](leetcode/0106-construct-binary-tree-from-inorder-and-postorder-traversal/notes.md) |
 | 108 | Convert Sorted Array to Binary Search Tree | Easy | [solution.py](leetcode/0108-convert-sorted-array-to-binary-search-tree/solution.py) | [notes.md](leetcode/0108-convert-sorted-array-to-binary-search-tree/notes.md) |
+| 112 | Path Sum | Easy | [solution.py](leetcode/0112-path-sum/solution.py) | [notes.md](leetcode/0112-path-sum/notes.md) |
 | 114 | Flatten Binary Tree to Linked List | Medium | [solution.py](leetcode/0114-flatten-binary-tree-to-linked-list/solution.py) | [notes.md](leetcode/0114-flatten-binary-tree-to-linked-list/notes.md) |
+| 117 | Populating Next Right Pointers in Each Node II | Medium | [solution.py](leetcode/0117-populating-next-right-pointers-in-each-node-ii/solution.py) | [notes.md](leetcode/0117-populating-next-right-pointers-in-each-node-ii/notes.md) |
 | 118 | Pascal's Triangle | Easy | [solution.py](leetcode/0118-pascals-triangle/solution.py) | [notes.md](leetcode/0118-pascals-triangle/notes.md) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [solution.py](leetcode/0121-best-time-to-buy-and-sell-stock/solution.py) | [notes.md](leetcode/0121-best-time-to-buy-and-sell-stock/notes.md) |
 | 122 | Best Time to Buy and Sell Stock II | Medium | [solution.py](leetcode/0122-best-time-to-buy-and-sell-stock-ii/solution.py) | [notes.md](leetcode/0122-best-time-to-buy-and-sell-stock-ii/notes.md) |
 | 124 | Binary Tree Maximum Path Sum | Hard | [solution.py](leetcode/0124-binary-tree-maximum-path-sum/solution.py) | [notes.md](leetcode/0124-binary-tree-maximum-path-sum/notes.md) |
 | 125 | Valid Palindrome | Easy | [solution.py](leetcode/0125-valid-palindrome/solution.py) | [notes.md](leetcode/0125-valid-palindrome/notes.md) |
 | 128 | Longest Consecutive Sequence | Medium | [solution.py](leetcode/0128-longest-consecutive-sequence/solution.py) | [notes.md](leetcode/0128-longest-consecutive-sequence/notes.md) |
+| 129 | Sum Root to Leaf Numbers | Medium | [solution.py](leetcode/0129-sum-root-to-leaf-numbers/solution.py) | [notes.md](leetcode/0129-sum-root-to-leaf-numbers/notes.md) |
 | 131 | Palindrome Partitioning | Medium | [solution.py](leetcode/0131-palindrome-partitioning/solution.py) | [notes.md](leetcode/0131-palindrome-partitioning/notes.md) |
 | 134 | Gas Station | Medium | [solution.py](leetcode/0134-gas-station/solution.py) | [notes.md](leetcode/0134-gas-station/notes.md) |
 | 135 | Candy | Hard | [solution.py](leetcode/0135-candy/solution.py) | [notes.md](leetcode/0135-candy/notes.md) |
@@ -102,6 +111,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 160 | Intersection of Two Linked Lists | Easy | [solution.py](leetcode/0160-intersection-of-two-linked-lists/solution.py) | [notes.md](leetcode/0160-intersection-of-two-linked-lists/notes.md) |
 | 167 | Two Sum II - Input Array Is Sorted | Medium | [solution.py](leetcode/0167-two-sum-ii-input-array-is-sorted/solution.py) | [notes.md](leetcode/0167-two-sum-ii-input-array-is-sorted/notes.md) |
 | 169 | Majority Element | Easy | [solution.py](leetcode/0169-majority-element/solution.py) | [notes.md](leetcode/0169-majority-element/notes.md) |
+| 173 | Binary Search Tree Iterator | Medium | [solution.py](leetcode/0173-binary-search-tree-iterator/solution.py) | [notes.md](leetcode/0173-binary-search-tree-iterator/notes.md) |
 | 189 | Rotate Array | Medium | [solution.py](leetcode/0189-rotate-array/solution.py) | [notes.md](leetcode/0189-rotate-array/notes.md) |
 | 198 | House Robber | Medium | [solution.py](leetcode/0198-house-robber/solution.py) | [notes.md](leetcode/0198-house-robber/notes.md) |
 | 199 | Binary Tree Right Side View | Medium | [solution.py](leetcode/0199-binary-tree-right-side-view/solution.py) | [notes.md](leetcode/0199-binary-tree-right-side-view/notes.md) |
@@ -158,6 +168,7 @@ No pending submissions.
 
 | Date | Summary |
 | --- | --- |
+| [2026-06-02](logs/2026-06-02.md) | 10 Top Interview 150 linked-list and binary-tree problems accepted |
 | [2026-06-01](logs/2026-06-01.md) | 10 Top Interview 150 hashmap, intervals, and stack problems accepted |
 | [2026-05-31](logs/2026-05-31.md) | 10 Top Interview 150 problems accepted |
 | [2026-05-29](logs/2026-05-29.md) | 10 Top Interview 150 Array/String problems accepted |
