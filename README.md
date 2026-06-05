@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 147
-- Latest activity: 2026-06-02, 10 Top Interview 150 linked-list and binary-tree problems accepted
+- Solved problems: 157
+- Latest activity: 2026-06-05, 10 Top Interview 150 binary-tree, graph, and BFS problems accepted
 - Language: Python3
 
 ## Problems
@@ -79,6 +79,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 100 | Same Tree | Easy | [solution.py](leetcode/0100-same-tree/solution.py) | [notes.md](leetcode/0100-same-tree/notes.md) |
 | 101 | Symmetric Tree | Easy | [solution.py](leetcode/0101-symmetric-tree/solution.py) | [notes.md](leetcode/0101-symmetric-tree/notes.md) |
 | 102 | Binary Tree Level Order Traversal | Medium | [solution.py](leetcode/0102-binary-tree-level-order-traversal/solution.py) | [notes.md](leetcode/0102-binary-tree-level-order-traversal/notes.md) |
+| 103 | Binary Tree Zigzag Level Order Traversal | Medium | [solution.py](leetcode/0103-binary-tree-zigzag-level-order-traversal/solution.py) | [notes.md](leetcode/0103-binary-tree-zigzag-level-order-traversal/notes.md) |
 | 104 | Maximum Depth of Binary Tree | Easy | [solution.py](leetcode/0104-maximum-depth-of-binary-tree/solution.py) | [notes.md](leetcode/0104-maximum-depth-of-binary-tree/notes.md) |
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | [solution.py](leetcode/0105-construct-binary-tree-from-preorder-and-inorder-traversal/solution.py) | [notes.md](leetcode/0105-construct-binary-tree-from-preorder-and-inorder-traversal/notes.md) |
 | 106 | Construct Binary Tree from Inorder and Postorder Traversal | Medium | [solution.py](leetcode/0106-construct-binary-tree-from-inorder-and-postorder-traversal/solution.py) | [notes.md](leetcode/0106-construct-binary-tree-from-inorder-and-postorder-traversal/notes.md) |
@@ -93,7 +94,9 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 125 | Valid Palindrome | Easy | [solution.py](leetcode/0125-valid-palindrome/solution.py) | [notes.md](leetcode/0125-valid-palindrome/notes.md) |
 | 128 | Longest Consecutive Sequence | Medium | [solution.py](leetcode/0128-longest-consecutive-sequence/solution.py) | [notes.md](leetcode/0128-longest-consecutive-sequence/notes.md) |
 | 129 | Sum Root to Leaf Numbers | Medium | [solution.py](leetcode/0129-sum-root-to-leaf-numbers/solution.py) | [notes.md](leetcode/0129-sum-root-to-leaf-numbers/notes.md) |
+| 130 | Surrounded Regions | Medium | [solution.py](leetcode/0130-surrounded-regions/solution.py) | [notes.md](leetcode/0130-surrounded-regions/notes.md) |
 | 131 | Palindrome Partitioning | Medium | [solution.py](leetcode/0131-palindrome-partitioning/solution.py) | [notes.md](leetcode/0131-palindrome-partitioning/notes.md) |
+| 133 | Clone Graph | Medium | [solution.py](leetcode/0133-clone-graph/solution.py) | [notes.md](leetcode/0133-clone-graph/notes.md) |
 | 134 | Gas Station | Medium | [solution.py](leetcode/0134-gas-station/solution.py) | [notes.md](leetcode/0134-gas-station/notes.md) |
 | 135 | Candy | Hard | [solution.py](leetcode/0135-candy/solution.py) | [notes.md](leetcode/0135-candy/notes.md) |
 | 136 | Single Number | Easy | [solution.py](leetcode/0136-single-number/solution.py) | [notes.md](leetcode/0136-single-number/notes.md) |
@@ -122,9 +125,11 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 207 | Course Schedule | Medium | [solution.py](leetcode/0207-course-schedule/solution.py) | [notes.md](leetcode/0207-course-schedule/notes.md) |
 | 208 | Implement Trie (Prefix Tree) | Medium | [solution.py](leetcode/0208-implement-trie-prefix-tree/solution.py) | [notes.md](leetcode/0208-implement-trie-prefix-tree/notes.md) |
 | 209 | Minimum Size Subarray Sum | Medium | [solution.py](leetcode/0209-minimum-size-subarray-sum/solution.py) | [notes.md](leetcode/0209-minimum-size-subarray-sum/notes.md) |
+| 210 | Course Schedule II | Medium | [solution.py](leetcode/0210-course-schedule-ii/solution.py) | [notes.md](leetcode/0210-course-schedule-ii/notes.md) |
 | 215 | Kth Largest Element in an Array | Medium | [solution.py](leetcode/0215-kth-largest-element-in-an-array/solution.py) | [notes.md](leetcode/0215-kth-largest-element-in-an-array/notes.md) |
 | 217 | Contains Duplicate | Easy | [solution.py](leetcode/0217-contains-duplicate/solution.py) | [notes.md](leetcode/0217-contains-duplicate/notes.md) |
 | 219 | Contains Duplicate II | Easy | [solution.py](leetcode/0219-contains-duplicate-ii/solution.py) | [notes.md](leetcode/0219-contains-duplicate-ii/notes.md) |
+| 222 | Count Complete Tree Nodes | Easy | [solution.py](leetcode/0222-count-complete-tree-nodes/solution.py) | [notes.md](leetcode/0222-count-complete-tree-nodes/notes.md) |
 | 224 | Basic Calculator | Hard | [solution.py](leetcode/0224-basic-calculator/solution.py) | [notes.md](leetcode/0224-basic-calculator/notes.md) |
 | 226 | Invert Binary Tree | Easy | [solution.py](leetcode/0226-invert-binary-tree/solution.py) | [notes.md](leetcode/0226-invert-binary-tree/notes.md) |
 | 228 | Summary Ranges | Easy | [solution.py](leetcode/0228-summary-ranges/solution.py) | [notes.md](leetcode/0228-summary-ranges/notes.md) |
@@ -149,14 +154,19 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 383 | Ransom Note | Easy | [solution.py](leetcode/0383-ransom-note/solution.py) | [notes.md](leetcode/0383-ransom-note/notes.md) |
 | 392 | Is Subsequence | Easy | [solution.py](leetcode/0392-is-subsequence/solution.py) | [notes.md](leetcode/0392-is-subsequence/notes.md) |
 | 394 | Decode String | Medium | [solution.py](leetcode/0394-decode-string/solution.py) | [notes.md](leetcode/0394-decode-string/notes.md) |
+| 399 | Evaluate Division | Medium | [solution.py](leetcode/0399-evaluate-division/solution.py) | [notes.md](leetcode/0399-evaluate-division/notes.md) |
 | 416 | Partition Equal Subset Sum | Medium | [solution.py](leetcode/0416-partition-equal-subset-sum/solution.py) | [notes.md](leetcode/0416-partition-equal-subset-sum/notes.md) |
+| 433 | Minimum Genetic Mutation | Medium | [solution.py](leetcode/0433-minimum-genetic-mutation/solution.py) | [notes.md](leetcode/0433-minimum-genetic-mutation/notes.md) |
 | 437 | Path Sum III | Medium | [solution.py](leetcode/0437-path-sum-iii/solution.py) | [notes.md](leetcode/0437-path-sum-iii/notes.md) |
 | 438 | Find All Anagrams in a String | Medium | [solution.py](leetcode/0438-find-all-anagrams-in-a-string/solution.py) | [notes.md](leetcode/0438-find-all-anagrams-in-a-string/notes.md) |
 | 452 | Minimum Number of Arrows to Burst Balloons | Medium | [solution.py](leetcode/0452-minimum-number-of-arrows-to-burst-balloons/solution.py) | [notes.md](leetcode/0452-minimum-number-of-arrows-to-burst-balloons/notes.md) |
+| 530 | Minimum Absolute Difference in BST | Easy | [solution.py](leetcode/0530-minimum-absolute-difference-in-bst/solution.py) | [notes.md](leetcode/0530-minimum-absolute-difference-in-bst/notes.md) |
 | 543 | Diameter of Binary Tree | Easy | [solution.py](leetcode/0543-diameter-of-binary-tree/solution.py) | [notes.md](leetcode/0543-diameter-of-binary-tree/notes.md) |
 | 560 | Subarray Sum Equals K | Medium | [solution.py](leetcode/0560-subarray-sum-equals-k/solution.py) | [notes.md](leetcode/0560-subarray-sum-equals-k/notes.md) |
+| 637 | Average of Levels in Binary Tree | Easy | [solution.py](leetcode/0637-average-of-levels-in-binary-tree/solution.py) | [notes.md](leetcode/0637-average-of-levels-in-binary-tree/notes.md) |
 | 739 | Daily Temperatures | Medium | [solution.py](leetcode/0739-daily-temperatures/solution.py) | [notes.md](leetcode/0739-daily-temperatures/notes.md) |
 | 763 | Partition Labels | Medium | [solution.py](leetcode/0763-partition-labels/solution.py) | [notes.md](leetcode/0763-partition-labels/notes.md) |
+| 909 | Snakes and Ladders | Medium | [solution.py](leetcode/0909-snakes-and-ladders/solution.py) | [notes.md](leetcode/0909-snakes-and-ladders/notes.md) |
 | 994 | Rotting Oranges | Medium | [solution.py](leetcode/0994-rotting-oranges/solution.py) | [notes.md](leetcode/0994-rotting-oranges/notes.md) |
 | 1143 | Longest Common Subsequence | Medium | [solution.py](leetcode/1143-longest-common-subsequence/solution.py) | [notes.md](leetcode/1143-longest-common-subsequence/notes.md) |
 
@@ -168,6 +178,7 @@ No pending submissions.
 
 | Date | Summary |
 | --- | --- |
+| [2026-06-05](logs/2026-06-05.md) | 10 Top Interview 150 binary-tree, graph, and BFS problems accepted |
 | [2026-06-02](logs/2026-06-02.md) | 10 Top Interview 150 linked-list and binary-tree problems accepted |
 | [2026-06-01](logs/2026-06-01.md) | 10 Top Interview 150 hashmap, intervals, and stack problems accepted |
 | [2026-05-31](logs/2026-05-31.md) | 10 Top Interview 150 problems accepted |
