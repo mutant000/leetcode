@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 157
-- Latest activity: 2026-06-05, 10 Top Interview 150 binary-tree, graph, and BFS problems accepted
+- Solved problems: 167
+- Latest activity: 2026-06-06, 10 Top Interview 150 graph, trie, heap, Kadane, binary-search, and bit problems accepted
 - Language: Python3
 
 ## Problems
@@ -58,6 +58,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 61 | Rotate List | Medium | [solution.py](leetcode/0061-rotate-list/solution.py) | [notes.md](leetcode/0061-rotate-list/notes.md) |
 | 62 | Unique Paths | Medium | [solution.py](leetcode/0062-unique-paths/solution.py) | [notes.md](leetcode/0062-unique-paths/notes.md) |
 | 64 | Minimum Path Sum | Medium | [solution.py](leetcode/0064-minimum-path-sum/solution.py) | [notes.md](leetcode/0064-minimum-path-sum/notes.md) |
+| 67 | Add Binary | Easy | [solution.py](leetcode/0067-add-binary/solution.py) | [notes.md](leetcode/0067-add-binary/notes.md) |
 | 68 | Text Justification | Hard | [solution.py](leetcode/0068-text-justification/solution.py) | [notes.md](leetcode/0068-text-justification/notes.md) |
 | 70 | Climbing Stairs | Easy | [solution.py](leetcode/0070-climbing-stairs/solution.py) | [notes.md](leetcode/0070-climbing-stairs/notes.md) |
 | 71 | Simplify Path | Medium | [solution.py](leetcode/0071-simplify-path/solution.py) | [notes.md](leetcode/0071-simplify-path/notes.md) |
@@ -92,6 +93,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 122 | Best Time to Buy and Sell Stock II | Medium | [solution.py](leetcode/0122-best-time-to-buy-and-sell-stock-ii/solution.py) | [notes.md](leetcode/0122-best-time-to-buy-and-sell-stock-ii/notes.md) |
 | 124 | Binary Tree Maximum Path Sum | Hard | [solution.py](leetcode/0124-binary-tree-maximum-path-sum/solution.py) | [notes.md](leetcode/0124-binary-tree-maximum-path-sum/notes.md) |
 | 125 | Valid Palindrome | Easy | [solution.py](leetcode/0125-valid-palindrome/solution.py) | [notes.md](leetcode/0125-valid-palindrome/notes.md) |
+| 127 | Word Ladder | Hard | [solution.py](leetcode/0127-word-ladder/solution.py) | [notes.md](leetcode/0127-word-ladder/notes.md) |
 | 128 | Longest Consecutive Sequence | Medium | [solution.py](leetcode/0128-longest-consecutive-sequence/solution.py) | [notes.md](leetcode/0128-longest-consecutive-sequence/notes.md) |
 | 129 | Sum Root to Leaf Numbers | Medium | [solution.py](leetcode/0129-sum-root-to-leaf-numbers/solution.py) | [notes.md](leetcode/0129-sum-root-to-leaf-numbers/notes.md) |
 | 130 | Surrounded Regions | Medium | [solution.py](leetcode/0130-surrounded-regions/solution.py) | [notes.md](leetcode/0130-surrounded-regions/notes.md) |
@@ -112,10 +114,13 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 153 | Find Minimum in Rotated Sorted Array | Medium | [solution.py](leetcode/0153-find-minimum-in-rotated-sorted-array/solution.py) | [notes.md](leetcode/0153-find-minimum-in-rotated-sorted-array/notes.md) |
 | 155 | Min Stack | Medium | [solution.py](leetcode/0155-min-stack/solution.py) | [notes.md](leetcode/0155-min-stack/notes.md) |
 | 160 | Intersection of Two Linked Lists | Easy | [solution.py](leetcode/0160-intersection-of-two-linked-lists/solution.py) | [notes.md](leetcode/0160-intersection-of-two-linked-lists/notes.md) |
+| 162 | Find Peak Element | Medium | [solution.py](leetcode/0162-find-peak-element/solution.py) | [notes.md](leetcode/0162-find-peak-element/notes.md) |
 | 167 | Two Sum II - Input Array Is Sorted | Medium | [solution.py](leetcode/0167-two-sum-ii-input-array-is-sorted/solution.py) | [notes.md](leetcode/0167-two-sum-ii-input-array-is-sorted/notes.md) |
 | 169 | Majority Element | Easy | [solution.py](leetcode/0169-majority-element/solution.py) | [notes.md](leetcode/0169-majority-element/notes.md) |
 | 173 | Binary Search Tree Iterator | Medium | [solution.py](leetcode/0173-binary-search-tree-iterator/solution.py) | [notes.md](leetcode/0173-binary-search-tree-iterator/notes.md) |
 | 189 | Rotate Array | Medium | [solution.py](leetcode/0189-rotate-array/solution.py) | [notes.md](leetcode/0189-rotate-array/notes.md) |
+| 190 | Reverse Bits | Easy | [solution.py](leetcode/0190-reverse-bits/solution.py) | [notes.md](leetcode/0190-reverse-bits/notes.md) |
+| 191 | Number of 1 Bits | Easy | [solution.py](leetcode/0191-number-of-1-bits/solution.py) | [notes.md](leetcode/0191-number-of-1-bits/notes.md) |
 | 198 | House Robber | Medium | [solution.py](leetcode/0198-house-robber/solution.py) | [notes.md](leetcode/0198-house-robber/notes.md) |
 | 199 | Binary Tree Right Side View | Medium | [solution.py](leetcode/0199-binary-tree-right-side-view/solution.py) | [notes.md](leetcode/0199-binary-tree-right-side-view/notes.md) |
 | 200 | Number of Islands | Medium | [solution.py](leetcode/0200-number-of-islands/solution.py) | [notes.md](leetcode/0200-number-of-islands/notes.md) |
@@ -126,6 +131,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 208 | Implement Trie (Prefix Tree) | Medium | [solution.py](leetcode/0208-implement-trie-prefix-tree/solution.py) | [notes.md](leetcode/0208-implement-trie-prefix-tree/notes.md) |
 | 209 | Minimum Size Subarray Sum | Medium | [solution.py](leetcode/0209-minimum-size-subarray-sum/solution.py) | [notes.md](leetcode/0209-minimum-size-subarray-sum/notes.md) |
 | 210 | Course Schedule II | Medium | [solution.py](leetcode/0210-course-schedule-ii/solution.py) | [notes.md](leetcode/0210-course-schedule-ii/notes.md) |
+| 211 | Design Add and Search Words Data Structure | Medium | [solution.py](leetcode/0211-design-add-and-search-words-data-structure/solution.py) | [notes.md](leetcode/0211-design-add-and-search-words-data-structure/notes.md) |
+| 212 | Word Search II | Hard | [solution.py](leetcode/0212-word-search-ii/solution.py) | [notes.md](leetcode/0212-word-search-ii/notes.md) |
 | 215 | Kth Largest Element in an Array | Medium | [solution.py](leetcode/0215-kth-largest-element-in-an-array/solution.py) | [notes.md](leetcode/0215-kth-largest-element-in-an-array/notes.md) |
 | 217 | Contains Duplicate | Easy | [solution.py](leetcode/0217-contains-duplicate/solution.py) | [notes.md](leetcode/0217-contains-duplicate/notes.md) |
 | 219 | Contains Duplicate II | Easy | [solution.py](leetcode/0219-contains-duplicate-ii/solution.py) | [notes.md](leetcode/0219-contains-duplicate-ii/notes.md) |
@@ -150,6 +157,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 300 | Longest Increasing Subsequence | Medium | [solution.py](leetcode/0300-longest-increasing-subsequence/solution.py) | [notes.md](leetcode/0300-longest-increasing-subsequence/notes.md) |
 | 322 | Coin Change | Medium | [solution.py](leetcode/0322-coin-change/solution.py) | [notes.md](leetcode/0322-coin-change/notes.md) |
 | 347 | Top K Frequent Elements | Medium | [solution.py](leetcode/0347-top-k-frequent-elements/solution.py) | [notes.md](leetcode/0347-top-k-frequent-elements/notes.md) |
+| 373 | Find K Pairs with Smallest Sums | Medium | [solution.py](leetcode/0373-find-k-pairs-with-smallest-sums/solution.py) | [notes.md](leetcode/0373-find-k-pairs-with-smallest-sums/notes.md) |
 | 380 | Insert Delete GetRandom O(1) | Medium | [solution.py](leetcode/0380-insert-delete-getrandom-o1/solution.py) | [notes.md](leetcode/0380-insert-delete-getrandom-o1/notes.md) |
 | 383 | Ransom Note | Easy | [solution.py](leetcode/0383-ransom-note/solution.py) | [notes.md](leetcode/0383-ransom-note/notes.md) |
 | 392 | Is Subsequence | Easy | [solution.py](leetcode/0392-is-subsequence/solution.py) | [notes.md](leetcode/0392-is-subsequence/notes.md) |
@@ -160,6 +168,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 437 | Path Sum III | Medium | [solution.py](leetcode/0437-path-sum-iii/solution.py) | [notes.md](leetcode/0437-path-sum-iii/notes.md) |
 | 438 | Find All Anagrams in a String | Medium | [solution.py](leetcode/0438-find-all-anagrams-in-a-string/solution.py) | [notes.md](leetcode/0438-find-all-anagrams-in-a-string/notes.md) |
 | 452 | Minimum Number of Arrows to Burst Balloons | Medium | [solution.py](leetcode/0452-minimum-number-of-arrows-to-burst-balloons/solution.py) | [notes.md](leetcode/0452-minimum-number-of-arrows-to-burst-balloons/notes.md) |
+| 502 | IPO | Hard | [solution.py](leetcode/0502-ipo/solution.py) | [notes.md](leetcode/0502-ipo/notes.md) |
 | 530 | Minimum Absolute Difference in BST | Easy | [solution.py](leetcode/0530-minimum-absolute-difference-in-bst/solution.py) | [notes.md](leetcode/0530-minimum-absolute-difference-in-bst/notes.md) |
 | 543 | Diameter of Binary Tree | Easy | [solution.py](leetcode/0543-diameter-of-binary-tree/solution.py) | [notes.md](leetcode/0543-diameter-of-binary-tree/notes.md) |
 | 560 | Subarray Sum Equals K | Medium | [solution.py](leetcode/0560-subarray-sum-equals-k/solution.py) | [notes.md](leetcode/0560-subarray-sum-equals-k/notes.md) |
@@ -167,6 +176,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 739 | Daily Temperatures | Medium | [solution.py](leetcode/0739-daily-temperatures/solution.py) | [notes.md](leetcode/0739-daily-temperatures/notes.md) |
 | 763 | Partition Labels | Medium | [solution.py](leetcode/0763-partition-labels/solution.py) | [notes.md](leetcode/0763-partition-labels/notes.md) |
 | 909 | Snakes and Ladders | Medium | [solution.py](leetcode/0909-snakes-and-ladders/solution.py) | [notes.md](leetcode/0909-snakes-and-ladders/notes.md) |
+| 918 | Maximum Sum Circular Subarray | Medium | [solution.py](leetcode/0918-maximum-sum-circular-subarray/solution.py) | [notes.md](leetcode/0918-maximum-sum-circular-subarray/notes.md) |
 | 994 | Rotting Oranges | Medium | [solution.py](leetcode/0994-rotting-oranges/solution.py) | [notes.md](leetcode/0994-rotting-oranges/notes.md) |
 | 1143 | Longest Common Subsequence | Medium | [solution.py](leetcode/1143-longest-common-subsequence/solution.py) | [notes.md](leetcode/1143-longest-common-subsequence/notes.md) |
 
@@ -178,6 +188,7 @@ No pending submissions.
 
 | Date | Summary |
 | --- | --- |
+| [2026-06-06](logs/2026-06-06.md) | 10 Top Interview 150 graph, trie, heap, Kadane, binary-search, and bit problems accepted |
 | [2026-06-05](logs/2026-06-05.md) | 10 Top Interview 150 binary-tree, graph, and BFS problems accepted |
 | [2026-06-02](logs/2026-06-02.md) | 10 Top Interview 150 linked-list and binary-tree problems accepted |
 | [2026-06-01](logs/2026-06-01.md) | 10 Top Interview 150 hashmap, intervals, and stack problems accepted |
