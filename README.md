@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 167
-- Latest activity: 2026-06-06, 10 Top Interview 150 graph, trie, heap, Kadane, binary-search, and bit problems accepted
+- Solved problems: 177
+- Latest activity: 2026-06-07, 10 Top Interview 150 bit, math, and dynamic-programming problems accepted
 - Language: Python3
 
 ## Problems
@@ -18,6 +18,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 4 | Median of Two Sorted Arrays | Hard | [solution.py](leetcode/0004-median-of-two-sorted-arrays/solution.py) | [notes.md](leetcode/0004-median-of-two-sorted-arrays/notes.md) |
 | 5 | Longest Palindromic Substring | Medium | [solution.py](leetcode/0005-longest-palindromic-substring/solution.py) | [notes.md](leetcode/0005-longest-palindromic-substring/notes.md) |
 | 6 | Zigzag Conversion | Medium | [solution.py](leetcode/0006-zigzag-conversion/solution.py) | [notes.md](leetcode/0006-zigzag-conversion/notes.md) |
+| 9 | Palindrome Number | Easy | [solution.py](leetcode/0009-palindrome-number/solution.py) | [notes.md](leetcode/0009-palindrome-number/notes.md) |
 | 11 | Container With Most Water | Medium | [solution.py](leetcode/0011-container-with-most-water/solution.py) | [notes.md](leetcode/0011-container-with-most-water/notes.md) |
 | 12 | Integer to Roman | Medium | [solution.py](leetcode/0012-integer-to-roman/solution.py) | [notes.md](leetcode/0012-integer-to-roman/notes.md) |
 | 13 | Roman to Integer | Easy | [solution.py](leetcode/0013-roman-to-integer/solution.py) | [notes.md](leetcode/0013-roman-to-integer/notes.md) |
@@ -48,6 +49,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 46 | Permutations | Medium | [solution.py](leetcode/0046-permutations/solution.py) | [notes.md](leetcode/0046-permutations/notes.md) |
 | 48 | Rotate Image | Medium | [solution.py](leetcode/0048-rotate-image/solution.py) | [notes.md](leetcode/0048-rotate-image/notes.md) |
 | 49 | Group Anagrams | Medium | [solution.py](leetcode/0049-group-anagrams/solution.py) | [notes.md](leetcode/0049-group-anagrams/notes.md) |
+| 50 | Pow(x, n) | Medium | [solution.py](leetcode/0050-powx-n/solution.py) | [notes.md](leetcode/0050-powx-n/notes.md) |
 | 51 | N-Queens | Hard | [solution.py](leetcode/0051-n-queens/solution.py) | [notes.md](leetcode/0051-n-queens/notes.md) |
 | 53 | Maximum Subarray | Medium | [solution.py](leetcode/0053-maximum-subarray/solution.py) | [notes.md](leetcode/0053-maximum-subarray/notes.md) |
 | 54 | Spiral Matrix | Medium | [solution.py](leetcode/0054-spiral-matrix/solution.py) | [notes.md](leetcode/0054-spiral-matrix/notes.md) |
@@ -57,9 +59,12 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 58 | Length of Last Word | Easy | [solution.py](leetcode/0058-length-of-last-word/solution.py) | [notes.md](leetcode/0058-length-of-last-word/notes.md) |
 | 61 | Rotate List | Medium | [solution.py](leetcode/0061-rotate-list/solution.py) | [notes.md](leetcode/0061-rotate-list/notes.md) |
 | 62 | Unique Paths | Medium | [solution.py](leetcode/0062-unique-paths/solution.py) | [notes.md](leetcode/0062-unique-paths/notes.md) |
+| 63 | Unique Paths II | Medium | [solution.py](leetcode/0063-unique-paths-ii/solution.py) | [notes.md](leetcode/0063-unique-paths-ii/notes.md) |
 | 64 | Minimum Path Sum | Medium | [solution.py](leetcode/0064-minimum-path-sum/solution.py) | [notes.md](leetcode/0064-minimum-path-sum/notes.md) |
+| 66 | Plus One | Easy | [solution.py](leetcode/0066-plus-one/solution.py) | [notes.md](leetcode/0066-plus-one/notes.md) |
 | 67 | Add Binary | Easy | [solution.py](leetcode/0067-add-binary/solution.py) | [notes.md](leetcode/0067-add-binary/notes.md) |
 | 68 | Text Justification | Hard | [solution.py](leetcode/0068-text-justification/solution.py) | [notes.md](leetcode/0068-text-justification/notes.md) |
+| 69 | Sqrt(x) | Easy | [solution.py](leetcode/0069-sqrtx/solution.py) | [notes.md](leetcode/0069-sqrtx/notes.md) |
 | 70 | Climbing Stairs | Easy | [solution.py](leetcode/0070-climbing-stairs/solution.py) | [notes.md](leetcode/0070-climbing-stairs/notes.md) |
 | 71 | Simplify Path | Medium | [solution.py](leetcode/0071-simplify-path/solution.py) | [notes.md](leetcode/0071-simplify-path/notes.md) |
 | 72 | Edit Distance | Medium | [solution.py](leetcode/0072-edit-distance/solution.py) | [notes.md](leetcode/0072-edit-distance/notes.md) |
@@ -89,6 +94,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 114 | Flatten Binary Tree to Linked List | Medium | [solution.py](leetcode/0114-flatten-binary-tree-to-linked-list/solution.py) | [notes.md](leetcode/0114-flatten-binary-tree-to-linked-list/notes.md) |
 | 117 | Populating Next Right Pointers in Each Node II | Medium | [solution.py](leetcode/0117-populating-next-right-pointers-in-each-node-ii/solution.py) | [notes.md](leetcode/0117-populating-next-right-pointers-in-each-node-ii/notes.md) |
 | 118 | Pascal's Triangle | Easy | [solution.py](leetcode/0118-pascals-triangle/solution.py) | [notes.md](leetcode/0118-pascals-triangle/notes.md) |
+| 120 | Triangle | Medium | [solution.py](leetcode/0120-triangle/solution.py) | [notes.md](leetcode/0120-triangle/notes.md) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [solution.py](leetcode/0121-best-time-to-buy-and-sell-stock/solution.py) | [notes.md](leetcode/0121-best-time-to-buy-and-sell-stock/notes.md) |
 | 122 | Best Time to Buy and Sell Stock II | Medium | [solution.py](leetcode/0122-best-time-to-buy-and-sell-stock-ii/solution.py) | [notes.md](leetcode/0122-best-time-to-buy-and-sell-stock-ii/notes.md) |
 | 124 | Binary Tree Maximum Path Sum | Hard | [solution.py](leetcode/0124-binary-tree-maximum-path-sum/solution.py) | [notes.md](leetcode/0124-binary-tree-maximum-path-sum/notes.md) |
@@ -102,12 +108,14 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 134 | Gas Station | Medium | [solution.py](leetcode/0134-gas-station/solution.py) | [notes.md](leetcode/0134-gas-station/notes.md) |
 | 135 | Candy | Hard | [solution.py](leetcode/0135-candy/solution.py) | [notes.md](leetcode/0135-candy/notes.md) |
 | 136 | Single Number | Easy | [solution.py](leetcode/0136-single-number/solution.py) | [notes.md](leetcode/0136-single-number/notes.md) |
+| 137 | Single Number II | Medium | [solution.py](leetcode/0137-single-number-ii/solution.py) | [notes.md](leetcode/0137-single-number-ii/notes.md) |
 | 138 | Copy List with Random Pointer | Medium | [solution.py](leetcode/0138-copy-list-with-random-pointer/solution.py) | [notes.md](leetcode/0138-copy-list-with-random-pointer/notes.md) |
 | 139 | Word Break | Medium | [solution.py](leetcode/0139-word-break/solution.py) | [notes.md](leetcode/0139-word-break/notes.md) |
 | 141 | Linked List Cycle | Easy | [solution.py](leetcode/0141-linked-list-cycle/solution.py) | [notes.md](leetcode/0141-linked-list-cycle/notes.md) |
 | 142 | Linked List Cycle II | Medium | [solution.py](leetcode/0142-linked-list-cycle-ii/solution.py) | [notes.md](leetcode/0142-linked-list-cycle-ii/notes.md) |
 | 146 | LRU Cache | Medium | [solution.py](leetcode/0146-lru-cache/solution.py) | [notes.md](leetcode/0146-lru-cache/notes.md) |
 | 148 | Sort List | Medium | [solution.py](leetcode/0148-sort-list/solution.py) | [notes.md](leetcode/0148-sort-list/notes.md) |
+| 149 | Max Points on a Line | Hard | [solution.py](leetcode/0149-max-points-on-a-line/solution.py) | [notes.md](leetcode/0149-max-points-on-a-line/notes.md) |
 | 150 | Evaluate Reverse Polish Notation | Medium | [solution.py](leetcode/0150-evaluate-reverse-polish-notation/solution.py) | [notes.md](leetcode/0150-evaluate-reverse-polish-notation/notes.md) |
 | 151 | Reverse Words in a String | Medium | [solution.py](leetcode/0151-reverse-words-in-a-string/solution.py) | [notes.md](leetcode/0151-reverse-words-in-a-string/notes.md) |
 | 152 | Maximum Product Subarray | Medium | [solution.py](leetcode/0152-maximum-product-subarray/solution.py) | [notes.md](leetcode/0152-maximum-product-subarray/notes.md) |
@@ -117,6 +125,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 162 | Find Peak Element | Medium | [solution.py](leetcode/0162-find-peak-element/solution.py) | [notes.md](leetcode/0162-find-peak-element/notes.md) |
 | 167 | Two Sum II - Input Array Is Sorted | Medium | [solution.py](leetcode/0167-two-sum-ii-input-array-is-sorted/solution.py) | [notes.md](leetcode/0167-two-sum-ii-input-array-is-sorted/notes.md) |
 | 169 | Majority Element | Easy | [solution.py](leetcode/0169-majority-element/solution.py) | [notes.md](leetcode/0169-majority-element/notes.md) |
+| 172 | Factorial Trailing Zeroes | Medium | [solution.py](leetcode/0172-factorial-trailing-zeroes/solution.py) | [notes.md](leetcode/0172-factorial-trailing-zeroes/notes.md) |
 | 173 | Binary Search Tree Iterator | Medium | [solution.py](leetcode/0173-binary-search-tree-iterator/solution.py) | [notes.md](leetcode/0173-binary-search-tree-iterator/notes.md) |
 | 189 | Rotate Array | Medium | [solution.py](leetcode/0189-rotate-array/solution.py) | [notes.md](leetcode/0189-rotate-array/notes.md) |
 | 190 | Reverse Bits | Easy | [solution.py](leetcode/0190-reverse-bits/solution.py) | [notes.md](leetcode/0190-reverse-bits/notes.md) |
@@ -124,6 +133,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 198 | House Robber | Medium | [solution.py](leetcode/0198-house-robber/solution.py) | [notes.md](leetcode/0198-house-robber/notes.md) |
 | 199 | Binary Tree Right Side View | Medium | [solution.py](leetcode/0199-binary-tree-right-side-view/solution.py) | [notes.md](leetcode/0199-binary-tree-right-side-view/notes.md) |
 | 200 | Number of Islands | Medium | [solution.py](leetcode/0200-number-of-islands/solution.py) | [notes.md](leetcode/0200-number-of-islands/notes.md) |
+| 201 | Bitwise AND of Numbers Range | Medium | [solution.py](leetcode/0201-bitwise-and-of-numbers-range/solution.py) | [notes.md](leetcode/0201-bitwise-and-of-numbers-range/notes.md) |
 | 202 | Happy Number | Easy | [solution.py](leetcode/0202-happy-number/solution.py) | [notes.md](leetcode/0202-happy-number/notes.md) |
 | 205 | Isomorphic Strings | Easy | [solution.py](leetcode/0205-isomorphic-strings/solution.py) | [notes.md](leetcode/0205-isomorphic-strings/notes.md) |
 | 206 | Reverse Linked List | Easy | [solution.py](leetcode/0206-reverse-linked-list/solution.py) | [notes.md](leetcode/0206-reverse-linked-list/notes.md) |
@@ -188,6 +198,7 @@ No pending submissions.
 
 | Date | Summary |
 | --- | --- |
+| [2026-06-07](logs/2026-06-07.md) | 10 Top Interview 150 bit, math, and dynamic-programming problems accepted |
 | [2026-06-06](logs/2026-06-06.md) | 10 Top Interview 150 graph, trie, heap, Kadane, binary-search, and bit problems accepted |
 | [2026-06-05](logs/2026-06-05.md) | 10 Top Interview 150 binary-tree, graph, and BFS problems accepted |
 | [2026-06-02](logs/2026-06-02.md) | 10 Top Interview 150 linked-list and binary-tree problems accepted |
