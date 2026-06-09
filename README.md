@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 187
-- Latest activity: 2026-06-08, remaining Top Interview 150 dynamic-programming problems and classic DP follow-up problems accepted
+- Solved problems: 197
+- Latest activity: 2026-06-09, 10 early classic array, string, math, and backtracking problems accepted
 - Language: Python3
 
 ## Problems
@@ -18,6 +18,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 4 | Median of Two Sorted Arrays | Hard | [solution.py](leetcode/0004-median-of-two-sorted-arrays/solution.py) | [notes.md](leetcode/0004-median-of-two-sorted-arrays/notes.md) |
 | 5 | Longest Palindromic Substring | Medium | [solution.py](leetcode/0005-longest-palindromic-substring/solution.py) | [notes.md](leetcode/0005-longest-palindromic-substring/notes.md) |
 | 6 | Zigzag Conversion | Medium | [solution.py](leetcode/0006-zigzag-conversion/solution.py) | [notes.md](leetcode/0006-zigzag-conversion/notes.md) |
+| 7 | Reverse Integer | Medium | [solution.py](leetcode/0007-reverse-integer/solution.py) | [notes.md](leetcode/0007-reverse-integer/notes.md) |
+| 8 | String to Integer (atoi) | Medium | [solution.py](leetcode/0008-string-to-integer-atoi/solution.py) | [notes.md](leetcode/0008-string-to-integer-atoi/notes.md) |
 | 9 | Palindrome Number | Easy | [solution.py](leetcode/0009-palindrome-number/solution.py) | [notes.md](leetcode/0009-palindrome-number/notes.md) |
 | 10 | Regular Expression Matching | Hard | [solution.py](leetcode/0010-regular-expression-matching/solution.py) | [notes.md](leetcode/0010-regular-expression-matching/notes.md) |
 | 11 | Container With Most Water | Medium | [solution.py](leetcode/0011-container-with-most-water/solution.py) | [notes.md](leetcode/0011-container-with-most-water/notes.md) |
@@ -25,7 +27,9 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 13 | Roman to Integer | Easy | [solution.py](leetcode/0013-roman-to-integer/solution.py) | [notes.md](leetcode/0013-roman-to-integer/notes.md) |
 | 14 | Longest Common Prefix | Easy | [solution.py](leetcode/0014-longest-common-prefix/solution.py) | [notes.md](leetcode/0014-longest-common-prefix/notes.md) |
 | 15 | 3Sum | Medium | [solution.py](leetcode/0015-3sum/solution.py) | [notes.md](leetcode/0015-3sum/notes.md) |
+| 16 | 3Sum Closest | Medium | [solution.py](leetcode/0016-3sum-closest/solution.py) | [notes.md](leetcode/0016-3sum-closest/notes.md) |
 | 17 | Letter Combinations of a Phone Number | Medium | [solution.py](leetcode/0017-letter-combinations-of-a-phone-number/solution.py) | [notes.md](leetcode/0017-letter-combinations-of-a-phone-number/notes.md) |
+| 18 | 4Sum | Medium | [solution.py](leetcode/0018-4sum/solution.py) | [notes.md](leetcode/0018-4sum/notes.md) |
 | 19 | Remove Nth Node From End of List | Medium | [solution.py](leetcode/0019-remove-nth-node-from-end-of-list/solution.py) | [notes.md](leetcode/0019-remove-nth-node-from-end-of-list/notes.md) |
 | 20 | Valid Parentheses | Easy | [solution.py](leetcode/0020-valid-parentheses/solution.py) | [notes.md](leetcode/0020-valid-parentheses/notes.md) |
 | 21 | Merge Two Sorted Lists | Easy | [solution.py](leetcode/0021-merge-two-sorted-lists/solution.py) | [notes.md](leetcode/0021-merge-two-sorted-lists/notes.md) |
@@ -36,6 +40,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 26 | Remove Duplicates from Sorted Array | Easy | [solution.py](leetcode/0026-remove-duplicates-from-sorted-array/solution.py) | [notes.md](leetcode/0026-remove-duplicates-from-sorted-array/notes.md) |
 | 27 | Remove Element | Easy | [solution.py](leetcode/0027-remove-element/solution.py) | [notes.md](leetcode/0027-remove-element/notes.md) |
 | 28 | Find the Index of the First Occurrence in a String | Easy | [solution.py](leetcode/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.py) | [notes.md](leetcode/0028-find-the-index-of-the-first-occurrence-in-a-string/notes.md) |
+| 29 | Divide Two Integers | Medium | [solution.py](leetcode/0029-divide-two-integers/solution.py) | [notes.md](leetcode/0029-divide-two-integers/notes.md) |
 | 30 | Substring with Concatenation of All Words | Hard | [solution.py](leetcode/0030-substring-with-concatenation-of-all-words/solution.py) | [notes.md](leetcode/0030-substring-with-concatenation-of-all-words/notes.md) |
 | 31 | Next Permutation | Medium | [solution.py](leetcode/0031-next-permutation/solution.py) | [notes.md](leetcode/0031-next-permutation/notes.md) |
 | 32 | Longest Valid Parentheses | Hard | [solution.py](leetcode/0032-longest-valid-parentheses/solution.py) | [notes.md](leetcode/0032-longest-valid-parentheses/notes.md) |
@@ -43,12 +48,17 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | [solution.py](leetcode/0034-find-first-and-last-position-of-element-in-sorted-array/solution.py) | [notes.md](leetcode/0034-find-first-and-last-position-of-element-in-sorted-array/notes.md) |
 | 35 | Search Insert Position | Easy | [solution.py](leetcode/0035-search-insert-position/solution.py) | [notes.md](leetcode/0035-search-insert-position/notes.md) |
 | 36 | Valid Sudoku | Medium | [solution.py](leetcode/0036-valid-sudoku/solution.py) | [notes.md](leetcode/0036-valid-sudoku/notes.md) |
+| 37 | Sudoku Solver | Hard | [solution.py](leetcode/0037-sudoku-solver/solution.py) | [notes.md](leetcode/0037-sudoku-solver/notes.md) |
+| 38 | Count and Say | Medium | [solution.py](leetcode/0038-count-and-say/solution.py) | [notes.md](leetcode/0038-count-and-say/notes.md) |
 | 39 | Combination Sum | Medium | [solution.py](leetcode/0039-combination-sum/solution.py) | [notes.md](leetcode/0039-combination-sum/notes.md) |
+| 40 | Combination Sum II | Medium | [solution.py](leetcode/0040-combination-sum-ii/solution.py) | [notes.md](leetcode/0040-combination-sum-ii/notes.md) |
 | 41 | First Missing Positive | Hard | [solution.py](leetcode/0041-first-missing-positive/solution.py) | [notes.md](leetcode/0041-first-missing-positive/notes.md) |
 | 42 | Trapping Rain Water | Hard | [solution.py](leetcode/0042-trapping-rain-water/solution.py) | [notes.md](leetcode/0042-trapping-rain-water/notes.md) |
+| 43 | Multiply Strings | Medium | [solution.py](leetcode/0043-multiply-strings/solution.py) | [notes.md](leetcode/0043-multiply-strings/notes.md) |
 | 44 | Wildcard Matching | Hard | [solution.py](leetcode/0044-wildcard-matching/solution.py) | [notes.md](leetcode/0044-wildcard-matching/notes.md) |
 | 45 | Jump Game II | Medium | [solution.py](leetcode/0045-jump-game-ii/solution.py) | [notes.md](leetcode/0045-jump-game-ii/notes.md) |
 | 46 | Permutations | Medium | [solution.py](leetcode/0046-permutations/solution.py) | [notes.md](leetcode/0046-permutations/notes.md) |
+| 47 | Permutations II | Medium | [solution.py](leetcode/0047-permutations-ii/solution.py) | [notes.md](leetcode/0047-permutations-ii/notes.md) |
 | 48 | Rotate Image | Medium | [solution.py](leetcode/0048-rotate-image/solution.py) | [notes.md](leetcode/0048-rotate-image/notes.md) |
 | 49 | Group Anagrams | Medium | [solution.py](leetcode/0049-group-anagrams/solution.py) | [notes.md](leetcode/0049-group-anagrams/notes.md) |
 | 50 | Pow(x, n) | Medium | [solution.py](leetcode/0050-powx-n/solution.py) | [notes.md](leetcode/0050-powx-n/notes.md) |
@@ -208,6 +218,7 @@ No pending submissions.
 
 | Date | Summary |
 | --- | --- |
+| [2026-06-09](logs/2026-06-09.md) | 10 early classic array, string, math, and backtracking problems accepted |
 | [2026-06-08](logs/2026-06-08.md) | Remaining Top Interview 150 dynamic-programming problems and classic DP follow-up problems accepted |
 | [2026-06-07](logs/2026-06-07.md) | 10 Top Interview 150 bit, math, and dynamic-programming problems accepted |
 | [2026-06-06](logs/2026-06-06.md) | 10 Top Interview 150 graph, trie, heap, Kadane, binary-search, and bit problems accepted |
