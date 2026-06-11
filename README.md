@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 197
-- Latest activity: 2026-06-09, 10 early classic array, string, math, and backtracking problems accepted
+- Solved problems: 207
+- Latest activity: 2026-06-11, 10 classic backtracking, matrix, search, stack, and dynamic-programming problems accepted
 - Language: Python3
 
 ## Problems
@@ -63,16 +63,20 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 49 | Group Anagrams | Medium | [solution.py](leetcode/0049-group-anagrams/solution.py) | [notes.md](leetcode/0049-group-anagrams/notes.md) |
 | 50 | Pow(x, n) | Medium | [solution.py](leetcode/0050-powx-n/solution.py) | [notes.md](leetcode/0050-powx-n/notes.md) |
 | 51 | N-Queens | Hard | [solution.py](leetcode/0051-n-queens/solution.py) | [notes.md](leetcode/0051-n-queens/notes.md) |
+| 52 | N-Queens II | Hard | [solution.py](leetcode/0052-n-queens-ii/solution.py) | [notes.md](leetcode/0052-n-queens-ii/notes.md) |
 | 53 | Maximum Subarray | Medium | [solution.py](leetcode/0053-maximum-subarray/solution.py) | [notes.md](leetcode/0053-maximum-subarray/notes.md) |
 | 54 | Spiral Matrix | Medium | [solution.py](leetcode/0054-spiral-matrix/solution.py) | [notes.md](leetcode/0054-spiral-matrix/notes.md) |
 | 55 | Jump Game | Medium | [solution.py](leetcode/0055-jump-game/solution.py) | [notes.md](leetcode/0055-jump-game/notes.md) |
 | 56 | Merge Intervals | Medium | [solution.py](leetcode/0056-merge-intervals/solution.py) | [notes.md](leetcode/0056-merge-intervals/notes.md) |
 | 57 | Insert Interval | Medium | [solution.py](leetcode/0057-insert-interval/solution.py) | [notes.md](leetcode/0057-insert-interval/notes.md) |
 | 58 | Length of Last Word | Easy | [solution.py](leetcode/0058-length-of-last-word/solution.py) | [notes.md](leetcode/0058-length-of-last-word/notes.md) |
+| 59 | Spiral Matrix II | Medium | [solution.py](leetcode/0059-spiral-matrix-ii/solution.py) | [notes.md](leetcode/0059-spiral-matrix-ii/notes.md) |
+| 60 | Permutation Sequence | Hard | [solution.py](leetcode/0060-permutation-sequence/solution.py) | [notes.md](leetcode/0060-permutation-sequence/notes.md) |
 | 61 | Rotate List | Medium | [solution.py](leetcode/0061-rotate-list/solution.py) | [notes.md](leetcode/0061-rotate-list/notes.md) |
 | 62 | Unique Paths | Medium | [solution.py](leetcode/0062-unique-paths/solution.py) | [notes.md](leetcode/0062-unique-paths/notes.md) |
 | 63 | Unique Paths II | Medium | [solution.py](leetcode/0063-unique-paths-ii/solution.py) | [notes.md](leetcode/0063-unique-paths-ii/notes.md) |
 | 64 | Minimum Path Sum | Medium | [solution.py](leetcode/0064-minimum-path-sum/solution.py) | [notes.md](leetcode/0064-minimum-path-sum/notes.md) |
+| 65 | Valid Number | Hard | [solution.py](leetcode/0065-valid-number/solution.py) | [notes.md](leetcode/0065-valid-number/notes.md) |
 | 66 | Plus One | Easy | [solution.py](leetcode/0066-plus-one/solution.py) | [notes.md](leetcode/0066-plus-one/notes.md) |
 | 67 | Add Binary | Easy | [solution.py](leetcode/0067-add-binary/solution.py) | [notes.md](leetcode/0067-add-binary/notes.md) |
 | 68 | Text Justification | Hard | [solution.py](leetcode/0068-text-justification/solution.py) | [notes.md](leetcode/0068-text-justification/notes.md) |
@@ -84,14 +88,20 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 74 | Search a 2D Matrix | Medium | [solution.py](leetcode/0074-search-a-2d-matrix/solution.py) | [notes.md](leetcode/0074-search-a-2d-matrix/notes.md) |
 | 75 | Sort Colors | Medium | [solution.py](leetcode/0075-sort-colors/solution.py) | [notes.md](leetcode/0075-sort-colors/notes.md) |
 | 76 | Minimum Window Substring | Hard | [solution.py](leetcode/0076-minimum-window-substring/solution.py) | [notes.md](leetcode/0076-minimum-window-substring/notes.md) |
+| 77 | Combinations | Medium | [solution.py](leetcode/0077-combinations/solution.py) | [notes.md](leetcode/0077-combinations/notes.md) |
 | 78 | Subsets | Medium | [solution.py](leetcode/0078-subsets/solution.py) | [notes.md](leetcode/0078-subsets/notes.md) |
 | 79 | Word Search | Medium | [solution.py](leetcode/0079-word-search/solution.py) | [notes.md](leetcode/0079-word-search/notes.md) |
 | 80 | Remove Duplicates from Sorted Array II | Medium | [solution.py](leetcode/0080-remove-duplicates-from-sorted-array-ii/solution.py) | [notes.md](leetcode/0080-remove-duplicates-from-sorted-array-ii/notes.md) |
+| 81 | Search in Rotated Sorted Array II | Medium | [solution.py](leetcode/0081-search-in-rotated-sorted-array-ii/solution.py) | [notes.md](leetcode/0081-search-in-rotated-sorted-array-ii/notes.md) |
 | 82 | Remove Duplicates from Sorted List II | Medium | [solution.py](leetcode/0082-remove-duplicates-from-sorted-list-ii/solution.py) | [notes.md](leetcode/0082-remove-duplicates-from-sorted-list-ii/notes.md) |
 | 84 | Largest Rectangle in Histogram | Hard | [solution.py](leetcode/0084-largest-rectangle-in-histogram/solution.py) | [notes.md](leetcode/0084-largest-rectangle-in-histogram/notes.md) |
+| 85 | Maximal Rectangle | Hard | [solution.py](leetcode/0085-maximal-rectangle/solution.py) | [notes.md](leetcode/0085-maximal-rectangle/notes.md) |
 | 86 | Partition List | Medium | [solution.py](leetcode/0086-partition-list/solution.py) | [notes.md](leetcode/0086-partition-list/notes.md) |
 | 87 | Scramble String | Hard | [solution.py](leetcode/0087-scramble-string/solution.py) | [notes.md](leetcode/0087-scramble-string/notes.md) |
 | 88 | Merge Sorted Array | Easy | [solution.py](leetcode/0088-merge-sorted-array/solution.py) | [notes.md](leetcode/0088-merge-sorted-array/notes.md) |
+| 89 | Gray Code | Medium | [solution.py](leetcode/0089-gray-code/solution.py) | [notes.md](leetcode/0089-gray-code/notes.md) |
+| 90 | Subsets II | Medium | [solution.py](leetcode/0090-subsets-ii/solution.py) | [notes.md](leetcode/0090-subsets-ii/notes.md) |
+| 91 | Decode Ways | Medium | [solution.py](leetcode/0091-decode-ways/solution.py) | [notes.md](leetcode/0091-decode-ways/notes.md) |
 | 92 | Reverse Linked List II | Medium | [solution.py](leetcode/0092-reverse-linked-list-ii/solution.py) | [notes.md](leetcode/0092-reverse-linked-list-ii/notes.md) |
 | 94 | Binary Tree Inorder Traversal | Easy | [solution.py](leetcode/0094-binary-tree-inorder-traversal/solution.py) | [notes.md](leetcode/0094-binary-tree-inorder-traversal/notes.md) |
 | 97 | Interleaving String | Medium | [solution.py](leetcode/0097-interleaving-string/solution.py) | [notes.md](leetcode/0097-interleaving-string/notes.md) |
@@ -218,6 +228,7 @@ No pending submissions.
 
 | Date | Summary |
 | --- | --- |
+| [2026-06-11](logs/2026-06-11.md) | 10 classic backtracking, matrix, search, stack, and dynamic-programming problems accepted |
 | [2026-06-09](logs/2026-06-09.md) | 10 early classic array, string, math, and backtracking problems accepted |
 | [2026-06-08](logs/2026-06-08.md) | Remaining Top Interview 150 dynamic-programming problems and classic DP follow-up problems accepted |
 | [2026-06-07](logs/2026-06-07.md) | 10 Top Interview 150 bit, math, and dynamic-programming problems accepted |
