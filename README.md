@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 207
-- Latest activity: 2026-06-11, 10 classic backtracking, matrix, search, stack, and dynamic-programming problems accepted
+- Solved problems: 217
+- Latest activity: 2026-06-12, 10 classic string, dynamic-programming, bucket, and number-format problems accepted
 - Language: Python3
 
 ## Problems
@@ -103,7 +103,9 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 90 | Subsets II | Medium | [solution.py](leetcode/0090-subsets-ii/solution.py) | [notes.md](leetcode/0090-subsets-ii/notes.md) |
 | 91 | Decode Ways | Medium | [solution.py](leetcode/0091-decode-ways/solution.py) | [notes.md](leetcode/0091-decode-ways/notes.md) |
 | 92 | Reverse Linked List II | Medium | [solution.py](leetcode/0092-reverse-linked-list-ii/solution.py) | [notes.md](leetcode/0092-reverse-linked-list-ii/notes.md) |
+| 93 | Restore IP Addresses | Medium | [solution.py](leetcode/0093-restore-ip-addresses/solution.py) | [notes.md](leetcode/0093-restore-ip-addresses/notes.md) |
 | 94 | Binary Tree Inorder Traversal | Easy | [solution.py](leetcode/0094-binary-tree-inorder-traversal/solution.py) | [notes.md](leetcode/0094-binary-tree-inorder-traversal/notes.md) |
+| 96 | Unique Binary Search Trees | Medium | [solution.py](leetcode/0096-unique-binary-search-trees/solution.py) | [notes.md](leetcode/0096-unique-binary-search-trees/notes.md) |
 | 97 | Interleaving String | Medium | [solution.py](leetcode/0097-interleaving-string/solution.py) | [notes.md](leetcode/0097-interleaving-string/notes.md) |
 | 98 | Validate Binary Search Tree | Medium | [solution.py](leetcode/0098-validate-binary-search-tree/solution.py) | [notes.md](leetcode/0098-validate-binary-search-tree/notes.md) |
 | 100 | Same Tree | Easy | [solution.py](leetcode/0100-same-tree/solution.py) | [notes.md](leetcode/0100-same-tree/notes.md) |
@@ -119,6 +121,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 115 | Distinct Subsequences | Hard | [solution.py](leetcode/0115-distinct-subsequences/solution.py) | [notes.md](leetcode/0115-distinct-subsequences/notes.md) |
 | 117 | Populating Next Right Pointers in Each Node II | Medium | [solution.py](leetcode/0117-populating-next-right-pointers-in-each-node-ii/solution.py) | [notes.md](leetcode/0117-populating-next-right-pointers-in-each-node-ii/notes.md) |
 | 118 | Pascal's Triangle | Easy | [solution.py](leetcode/0118-pascals-triangle/solution.py) | [notes.md](leetcode/0118-pascals-triangle/notes.md) |
+| 119 | Pascal's Triangle II | Easy | [solution.py](leetcode/0119-pascals-triangle-ii/solution.py) | [notes.md](leetcode/0119-pascals-triangle-ii/notes.md) |
 | 120 | Triangle | Medium | [solution.py](leetcode/0120-triangle/solution.py) | [notes.md](leetcode/0120-triangle/notes.md) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [solution.py](leetcode/0121-best-time-to-buy-and-sell-stock/solution.py) | [notes.md](leetcode/0121-best-time-to-buy-and-sell-stock/notes.md) |
 | 122 | Best Time to Buy and Sell Stock II | Medium | [solution.py](leetcode/0122-best-time-to-buy-and-sell-stock-ii/solution.py) | [notes.md](leetcode/0122-best-time-to-buy-and-sell-stock-ii/notes.md) |
@@ -130,6 +133,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 129 | Sum Root to Leaf Numbers | Medium | [solution.py](leetcode/0129-sum-root-to-leaf-numbers/solution.py) | [notes.md](leetcode/0129-sum-root-to-leaf-numbers/notes.md) |
 | 130 | Surrounded Regions | Medium | [solution.py](leetcode/0130-surrounded-regions/solution.py) | [notes.md](leetcode/0130-surrounded-regions/notes.md) |
 | 131 | Palindrome Partitioning | Medium | [solution.py](leetcode/0131-palindrome-partitioning/solution.py) | [notes.md](leetcode/0131-palindrome-partitioning/notes.md) |
+| 132 | Palindrome Partitioning II | Hard | [solution.py](leetcode/0132-palindrome-partitioning-ii/solution.py) | [notes.md](leetcode/0132-palindrome-partitioning-ii/notes.md) |
 | 133 | Clone Graph | Medium | [solution.py](leetcode/0133-clone-graph/solution.py) | [notes.md](leetcode/0133-clone-graph/notes.md) |
 | 134 | Gas Station | Medium | [solution.py](leetcode/0134-gas-station/solution.py) | [notes.md](leetcode/0134-gas-station/notes.md) |
 | 135 | Candy | Hard | [solution.py](leetcode/0135-candy/solution.py) | [notes.md](leetcode/0135-candy/notes.md) |
@@ -137,6 +141,7 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 137 | Single Number II | Medium | [solution.py](leetcode/0137-single-number-ii/solution.py) | [notes.md](leetcode/0137-single-number-ii/notes.md) |
 | 138 | Copy List with Random Pointer | Medium | [solution.py](leetcode/0138-copy-list-with-random-pointer/solution.py) | [notes.md](leetcode/0138-copy-list-with-random-pointer/notes.md) |
 | 139 | Word Break | Medium | [solution.py](leetcode/0139-word-break/solution.py) | [notes.md](leetcode/0139-word-break/notes.md) |
+| 140 | Word Break II | Hard | [solution.py](leetcode/0140-word-break-ii/solution.py) | [notes.md](leetcode/0140-word-break-ii/notes.md) |
 | 141 | Linked List Cycle | Easy | [solution.py](leetcode/0141-linked-list-cycle/solution.py) | [notes.md](leetcode/0141-linked-list-cycle/notes.md) |
 | 142 | Linked List Cycle II | Medium | [solution.py](leetcode/0142-linked-list-cycle-ii/solution.py) | [notes.md](leetcode/0142-linked-list-cycle-ii/notes.md) |
 | 146 | LRU Cache | Medium | [solution.py](leetcode/0146-lru-cache/solution.py) | [notes.md](leetcode/0146-lru-cache/notes.md) |
@@ -146,10 +151,15 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 151 | Reverse Words in a String | Medium | [solution.py](leetcode/0151-reverse-words-in-a-string/solution.py) | [notes.md](leetcode/0151-reverse-words-in-a-string/notes.md) |
 | 152 | Maximum Product Subarray | Medium | [solution.py](leetcode/0152-maximum-product-subarray/solution.py) | [notes.md](leetcode/0152-maximum-product-subarray/notes.md) |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | [solution.py](leetcode/0153-find-minimum-in-rotated-sorted-array/solution.py) | [notes.md](leetcode/0153-find-minimum-in-rotated-sorted-array/notes.md) |
+| 154 | Find Minimum in Rotated Sorted Array II | Hard | [solution.py](leetcode/0154-find-minimum-in-rotated-sorted-array-ii/solution.py) | [notes.md](leetcode/0154-find-minimum-in-rotated-sorted-array-ii/notes.md) |
 | 155 | Min Stack | Medium | [solution.py](leetcode/0155-min-stack/solution.py) | [notes.md](leetcode/0155-min-stack/notes.md) |
 | 160 | Intersection of Two Linked Lists | Easy | [solution.py](leetcode/0160-intersection-of-two-linked-lists/solution.py) | [notes.md](leetcode/0160-intersection-of-two-linked-lists/notes.md) |
 | 162 | Find Peak Element | Medium | [solution.py](leetcode/0162-find-peak-element/solution.py) | [notes.md](leetcode/0162-find-peak-element/notes.md) |
+| 164 | Maximum Gap | Medium | [solution.py](leetcode/0164-maximum-gap/solution.py) | [notes.md](leetcode/0164-maximum-gap/notes.md) |
+| 165 | Compare Version Numbers | Medium | [solution.py](leetcode/0165-compare-version-numbers/solution.py) | [notes.md](leetcode/0165-compare-version-numbers/notes.md) |
+| 166 | Fraction to Recurring Decimal | Medium | [solution.py](leetcode/0166-fraction-to-recurring-decimal/solution.py) | [notes.md](leetcode/0166-fraction-to-recurring-decimal/notes.md) |
 | 167 | Two Sum II - Input Array Is Sorted | Medium | [solution.py](leetcode/0167-two-sum-ii-input-array-is-sorted/solution.py) | [notes.md](leetcode/0167-two-sum-ii-input-array-is-sorted/notes.md) |
+| 168 | Excel Sheet Column Title | Easy | [solution.py](leetcode/0168-excel-sheet-column-title/solution.py) | [notes.md](leetcode/0168-excel-sheet-column-title/notes.md) |
 | 169 | Majority Element | Easy | [solution.py](leetcode/0169-majority-element/solution.py) | [notes.md](leetcode/0169-majority-element/notes.md) |
 | 172 | Factorial Trailing Zeroes | Medium | [solution.py](leetcode/0172-factorial-trailing-zeroes/solution.py) | [notes.md](leetcode/0172-factorial-trailing-zeroes/notes.md) |
 | 173 | Binary Search Tree Iterator | Medium | [solution.py](leetcode/0173-binary-search-tree-iterator/solution.py) | [notes.md](leetcode/0173-binary-search-tree-iterator/notes.md) |
@@ -228,6 +238,7 @@ No pending submissions.
 
 | Date | Summary |
 | --- | --- |
+| [2026-06-12](logs/2026-06-12.md) | 10 classic string, dynamic-programming, bucket, and number-format problems accepted |
 | [2026-06-11](logs/2026-06-11.md) | 10 classic backtracking, matrix, search, stack, and dynamic-programming problems accepted |
 | [2026-06-09](logs/2026-06-09.md) | 10 early classic array, string, math, and backtracking problems accepted |
 | [2026-06-08](logs/2026-06-08.md) | Remaining Top Interview 150 dynamic-programming problems and classic DP follow-up problems accepted |
