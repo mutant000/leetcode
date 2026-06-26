@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 227
-- Latest activity: 2026-06-18, 10 classic math, string, dynamic-programming, bucket, and calculator problems accepted
+- Solved problems: 237
+- Latest activity: 2026-06-26, 10 classic bit, design, digit-counting, tree, linked-list, divide-and-conquer, and number problems accepted
 - Language: Python3
 
 ## Problems
@@ -200,12 +200,22 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 228 | Summary Ranges | Easy | [solution.py](leetcode/0228-summary-ranges/solution.py) | [notes.md](leetcode/0228-summary-ranges/notes.md) |
 | 229 | Majority Element II | Medium | [solution.py](leetcode/0229-majority-element-ii/solution.py) | [notes.md](leetcode/0229-majority-element-ii/notes.md) |
 | 230 | Kth Smallest Element in a BST | Medium | [solution.py](leetcode/0230-kth-smallest-element-in-a-bst/solution.py) | [notes.md](leetcode/0230-kth-smallest-element-in-a-bst/notes.md) |
+| 231 | Power of Two | Easy | [solution.py](leetcode/0231-power-of-two/solution.py) | [notes.md](leetcode/0231-power-of-two/notes.md) |
+| 232 | Implement Queue using Stacks | Easy | [solution.py](leetcode/0232-implement-queue-using-stacks/solution.py) | [notes.md](leetcode/0232-implement-queue-using-stacks/notes.md) |
+| 233 | Number of Digit One | Hard | [solution.py](leetcode/0233-number-of-digit-one/solution.py) | [notes.md](leetcode/0233-number-of-digit-one/notes.md) |
 | 234 | Palindrome Linked List | Easy | [solution.py](leetcode/0234-palindrome-linked-list/solution.py) | [notes.md](leetcode/0234-palindrome-linked-list/notes.md) |
+| 235 | Lowest Common Ancestor of a Binary Search Tree | Medium | [solution.py](leetcode/0235-lowest-common-ancestor-of-a-binary-search-tree/solution.py) | [notes.md](leetcode/0235-lowest-common-ancestor-of-a-binary-search-tree/notes.md) |
 | 236 | Lowest Common Ancestor of a Binary Tree | Medium | [solution.py](leetcode/0236-lowest-common-ancestor-of-a-binary-tree/solution.py) | [notes.md](leetcode/0236-lowest-common-ancestor-of-a-binary-tree/notes.md) |
+| 237 | Delete Node in a Linked List | Medium | [solution.py](leetcode/0237-delete-node-in-a-linked-list/solution.py) | [notes.md](leetcode/0237-delete-node-in-a-linked-list/notes.md) |
 | 238 | Product of Array Except Self | Medium | [solution.py](leetcode/0238-product-of-array-except-self/solution.py) | [notes.md](leetcode/0238-product-of-array-except-self/notes.md) |
 | 239 | Sliding Window Maximum | Hard | [solution.py](leetcode/0239-sliding-window-maximum/solution.py) | [notes.md](leetcode/0239-sliding-window-maximum/notes.md) |
 | 240 | Search a 2D Matrix II | Medium | [solution.py](leetcode/0240-search-a-2d-matrix-ii/solution.py) | [notes.md](leetcode/0240-search-a-2d-matrix-ii/notes.md) |
+| 241 | Different Ways to Add Parentheses | Medium | [solution.py](leetcode/0241-different-ways-to-add-parentheses/solution.py) | [notes.md](leetcode/0241-different-ways-to-add-parentheses/notes.md) |
 | 242 | Valid Anagram | Easy | [solution.py](leetcode/0242-valid-anagram/solution.py) | [notes.md](leetcode/0242-valid-anagram/notes.md) |
+| 258 | Add Digits | Easy | [solution.py](leetcode/0258-add-digits/solution.py) | [notes.md](leetcode/0258-add-digits/notes.md) |
+| 260 | Single Number III | Medium | [solution.py](leetcode/0260-single-number-iii/solution.py) | [notes.md](leetcode/0260-single-number-iii/notes.md) |
+| 263 | Ugly Number | Easy | [solution.py](leetcode/0263-ugly-number/solution.py) | [notes.md](leetcode/0263-ugly-number/notes.md) |
+| 264 | Ugly Number II | Medium | [solution.py](leetcode/0264-ugly-number-ii/solution.py) | [notes.md](leetcode/0264-ugly-number-ii/notes.md) |
 | 274 | H-Index | Medium | [solution.py](leetcode/0274-h-index/solution.py) | [notes.md](leetcode/0274-h-index/notes.md) |
 | 279 | Perfect Squares | Medium | [solution.py](leetcode/0279-perfect-squares/solution.py) | [notes.md](leetcode/0279-perfect-squares/notes.md) |
 | 283 | Move Zeroes | Easy | [solution.py](leetcode/0283-move-zeroes/solution.py) | [notes.md](leetcode/0283-move-zeroes/notes.md) |
@@ -248,6 +258,7 @@ No pending submissions.
 
 | Date | Summary |
 | --- | --- |
+| [2026-06-26](logs/2026-06-26.md) | 10 classic bit, design, digit-counting, tree, linked-list, divide-and-conquer, and number problems accepted |
 | [2026-06-18](logs/2026-06-18.md) | 10 classic math, string, dynamic-programming, bucket, and calculator problems accepted |
 | [2026-06-12](logs/2026-06-12.md) | 10 classic string, dynamic-programming, bucket, and number-format problems accepted |
 | [2026-06-11](logs/2026-06-11.md) | 10 classic backtracking, matrix, search, stack, and dynamic-programming problems accepted |
