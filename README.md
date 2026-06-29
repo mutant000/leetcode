@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 237
-- Latest activity: 2026-06-26, 10 classic bit, design, digit-counting, tree, linked-list, divide-and-conquer, and number problems accepted
+- Solved problems: 247
+- Latest activity: 2026-06-29, 10 classic binary-search, iterator, tree serialization, BFS, prefix-sum, dynamic-programming, Fenwick-tree, and sorting problems accepted
 - Language: Python3
 
 ## Problems
@@ -217,15 +217,25 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 263 | Ugly Number | Easy | [solution.py](leetcode/0263-ugly-number/solution.py) | [notes.md](leetcode/0263-ugly-number/notes.md) |
 | 264 | Ugly Number II | Medium | [solution.py](leetcode/0264-ugly-number-ii/solution.py) | [notes.md](leetcode/0264-ugly-number-ii/notes.md) |
 | 274 | H-Index | Medium | [solution.py](leetcode/0274-h-index/solution.py) | [notes.md](leetcode/0274-h-index/notes.md) |
+| 275 | H-Index II | Medium | [solution.py](leetcode/0275-h-index-ii/solution.py) | [notes.md](leetcode/0275-h-index-ii/notes.md) |
+| 278 | First Bad Version | Easy | [solution.py](leetcode/0278-first-bad-version/solution.py) | [notes.md](leetcode/0278-first-bad-version/notes.md) |
 | 279 | Perfect Squares | Medium | [solution.py](leetcode/0279-perfect-squares/solution.py) | [notes.md](leetcode/0279-perfect-squares/notes.md) |
 | 283 | Move Zeroes | Easy | [solution.py](leetcode/0283-move-zeroes/solution.py) | [notes.md](leetcode/0283-move-zeroes/notes.md) |
+| 284 | Peeking Iterator | Medium | [solution.py](leetcode/0284-peeking-iterator/solution.py) | [notes.md](leetcode/0284-peeking-iterator/notes.md) |
 | 287 | Find the Duplicate Number | Medium | [solution.py](leetcode/0287-find-the-duplicate-number/solution.py) | [notes.md](leetcode/0287-find-the-duplicate-number/notes.md) |
 | 289 | Game of Life | Medium | [solution.py](leetcode/0289-game-of-life/solution.py) | [notes.md](leetcode/0289-game-of-life/notes.md) |
 | 290 | Word Pattern | Easy | [solution.py](leetcode/0290-word-pattern/solution.py) | [notes.md](leetcode/0290-word-pattern/notes.md) |
 | 295 | Find Median from Data Stream | Hard | [solution.py](leetcode/0295-find-median-from-data-stream/solution.py) | [notes.md](leetcode/0295-find-median-from-data-stream/notes.md) |
+| 297 | Serialize and Deserialize Binary Tree | Hard | [solution.py](leetcode/0297-serialize-and-deserialize-binary-tree/solution.py) | [notes.md](leetcode/0297-serialize-and-deserialize-binary-tree/notes.md) |
 | 300 | Longest Increasing Subsequence | Medium | [solution.py](leetcode/0300-longest-increasing-subsequence/solution.py) | [notes.md](leetcode/0300-longest-increasing-subsequence/notes.md) |
+| 301 | Remove Invalid Parentheses | Hard | [solution.py](leetcode/0301-remove-invalid-parentheses/solution.py) | [notes.md](leetcode/0301-remove-invalid-parentheses/notes.md) |
+| 303 | Range Sum Query - Immutable | Easy | [solution.py](leetcode/0303-range-sum-query-immutable/solution.py) | [notes.md](leetcode/0303-range-sum-query-immutable/notes.md) |
+| 304 | Range Sum Query 2D - Immutable | Medium | [solution.py](leetcode/0304-range-sum-query-2d-immutable/solution.py) | [notes.md](leetcode/0304-range-sum-query-2d-immutable/notes.md) |
+| 309 | Best Time to Buy and Sell Stock with Cooldown | Medium | [solution.py](leetcode/0309-best-time-to-buy-and-sell-stock-with-cooldown/solution.py) | [notes.md](leetcode/0309-best-time-to-buy-and-sell-stock-with-cooldown/notes.md) |
 | 312 | Burst Balloons | Hard | [solution.py](leetcode/0312-burst-balloons/solution.py) | [notes.md](leetcode/0312-burst-balloons/notes.md) |
+| 315 | Count of Smaller Numbers After Self | Hard | [solution.py](leetcode/0315-count-of-smaller-numbers-after-self/solution.py) | [notes.md](leetcode/0315-count-of-smaller-numbers-after-self/notes.md) |
 | 322 | Coin Change | Medium | [solution.py](leetcode/0322-coin-change/solution.py) | [notes.md](leetcode/0322-coin-change/notes.md) |
+| 324 | Wiggle Sort II | Medium | [solution.py](leetcode/0324-wiggle-sort-ii/solution.py) | [notes.md](leetcode/0324-wiggle-sort-ii/notes.md) |
 | 347 | Top K Frequent Elements | Medium | [solution.py](leetcode/0347-top-k-frequent-elements/solution.py) | [notes.md](leetcode/0347-top-k-frequent-elements/notes.md) |
 | 373 | Find K Pairs with Smallest Sums | Medium | [solution.py](leetcode/0373-find-k-pairs-with-smallest-sums/solution.py) | [notes.md](leetcode/0373-find-k-pairs-with-smallest-sums/notes.md) |
 | 380 | Insert Delete GetRandom O(1) | Medium | [solution.py](leetcode/0380-insert-delete-getrandom-o1/solution.py) | [notes.md](leetcode/0380-insert-delete-getrandom-o1/notes.md) |
@@ -258,6 +268,7 @@ No pending submissions.
 
 | Date | Summary |
 | --- | --- |
+| [2026-06-29](logs/2026-06-29.md) | 10 classic binary-search, iterator, tree serialization, BFS, prefix-sum, dynamic-programming, Fenwick-tree, and sorting problems accepted |
 | [2026-06-26](logs/2026-06-26.md) | 10 classic bit, design, digit-counting, tree, linked-list, divide-and-conquer, and number problems accepted |
 | [2026-06-18](logs/2026-06-18.md) | 10 classic math, string, dynamic-programming, bucket, and calculator problems accepted |
 | [2026-06-12](logs/2026-06-12.md) | 10 classic string, dynamic-programming, bucket, and number-format problems accepted |
