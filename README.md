@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 247
-- Latest activity: 2026-06-29, 10 classic binary-search, iterator, tree serialization, BFS, prefix-sum, dynamic-programming, Fenwick-tree, and sorting problems accepted
+- Solved problems: 257
+- Latest activity: 2026-06-30, 10 classic power, linked-list, matrix DFS, tree serialization, graph, dynamic-programming, and iterator problems accepted
 - Language: Python3
 
 ## Problems
@@ -236,6 +236,16 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 315 | Count of Smaller Numbers After Self | Hard | [solution.py](leetcode/0315-count-of-smaller-numbers-after-self/solution.py) | [notes.md](leetcode/0315-count-of-smaller-numbers-after-self/notes.md) |
 | 322 | Coin Change | Medium | [solution.py](leetcode/0322-coin-change/solution.py) | [notes.md](leetcode/0322-coin-change/notes.md) |
 | 324 | Wiggle Sort II | Medium | [solution.py](leetcode/0324-wiggle-sort-ii/solution.py) | [notes.md](leetcode/0324-wiggle-sort-ii/notes.md) |
+| 326 | Power of Three | Easy | [solution.py](leetcode/0326-power-of-three/solution.py) | [notes.md](leetcode/0326-power-of-three/notes.md) |
+| 328 | Odd Even Linked List | Medium | [solution.py](leetcode/0328-odd-even-linked-list/solution.py) | [notes.md](leetcode/0328-odd-even-linked-list/notes.md) |
+| 329 | Longest Increasing Path in a Matrix | Hard | [solution.py](leetcode/0329-longest-increasing-path-in-a-matrix/solution.py) | [notes.md](leetcode/0329-longest-increasing-path-in-a-matrix/notes.md) |
+| 331 | Verify Preorder Serialization of a Binary Tree | Medium | [solution.py](leetcode/0331-verify-preorder-serialization-of-a-binary-tree/solution.py) | [notes.md](leetcode/0331-verify-preorder-serialization-of-a-binary-tree/notes.md) |
+| 332 | Reconstruct Itinerary | Hard | [solution.py](leetcode/0332-reconstruct-itinerary/solution.py) | [notes.md](leetcode/0332-reconstruct-itinerary/notes.md) |
+| 334 | Increasing Triplet Subsequence | Medium | [solution.py](leetcode/0334-increasing-triplet-subsequence/solution.py) | [notes.md](leetcode/0334-increasing-triplet-subsequence/notes.md) |
+| 337 | House Robber III | Medium | [solution.py](leetcode/0337-house-robber-iii/solution.py) | [notes.md](leetcode/0337-house-robber-iii/notes.md) |
+| 338 | Counting Bits | Easy | [solution.py](leetcode/0338-counting-bits/solution.py) | [notes.md](leetcode/0338-counting-bits/notes.md) |
+| 341 | Flatten Nested List Iterator | Medium | [solution.py](leetcode/0341-flatten-nested-list-iterator/solution.py) | [notes.md](leetcode/0341-flatten-nested-list-iterator/notes.md) |
+| 342 | Power of Four | Easy | [solution.py](leetcode/0342-power-of-four/solution.py) | [notes.md](leetcode/0342-power-of-four/notes.md) |
 | 347 | Top K Frequent Elements | Medium | [solution.py](leetcode/0347-top-k-frequent-elements/solution.py) | [notes.md](leetcode/0347-top-k-frequent-elements/notes.md) |
 | 373 | Find K Pairs with Smallest Sums | Medium | [solution.py](leetcode/0373-find-k-pairs-with-smallest-sums/solution.py) | [notes.md](leetcode/0373-find-k-pairs-with-smallest-sums/notes.md) |
 | 380 | Insert Delete GetRandom O(1) | Medium | [solution.py](leetcode/0380-insert-delete-getrandom-o1/solution.py) | [notes.md](leetcode/0380-insert-delete-getrandom-o1/notes.md) |
@@ -268,6 +278,7 @@ No pending submissions.
 
 | Date | Summary |
 | --- | --- |
+| [2026-06-30](logs/2026-06-30.md) | 10 classic power, linked-list, matrix DFS, tree serialization, graph, dynamic-programming, and iterator problems accepted |
 | [2026-06-29](logs/2026-06-29.md) | 10 classic binary-search, iterator, tree serialization, BFS, prefix-sum, dynamic-programming, Fenwick-tree, and sorting problems accepted |
 | [2026-06-26](logs/2026-06-26.md) | 10 classic bit, design, digit-counting, tree, linked-list, divide-and-conquer, and number problems accepted |
 | [2026-06-18](logs/2026-06-18.md) | 10 classic math, string, dynamic-programming, bucket, and calculator problems accepted |
