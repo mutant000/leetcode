@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 257
-- Latest activity: 2026-06-30, 10 classic power, linked-list, matrix DFS, tree serialization, graph, dynamic-programming, and iterator problems accepted
+- Solved problems: 267
+- Latest activity: 2026-07-02, 10 classic dynamic-programming, two-pointer, set, sorting, design, combinatorics, number-theory, and binary-search problems accepted
 - Language: Python3
 
 ## Problems
@@ -246,7 +246,17 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 338 | Counting Bits | Easy | [solution.py](leetcode/0338-counting-bits/solution.py) | [notes.md](leetcode/0338-counting-bits/notes.md) |
 | 341 | Flatten Nested List Iterator | Medium | [solution.py](leetcode/0341-flatten-nested-list-iterator/solution.py) | [notes.md](leetcode/0341-flatten-nested-list-iterator/notes.md) |
 | 342 | Power of Four | Easy | [solution.py](leetcode/0342-power-of-four/solution.py) | [notes.md](leetcode/0342-power-of-four/notes.md) |
+| 343 | Integer Break | Medium | [solution.py](leetcode/0343-integer-break/solution.py) | [notes.md](leetcode/0343-integer-break/notes.md) |
+| 344 | Reverse String | Easy | [solution.py](leetcode/0344-reverse-string/solution.py) | [notes.md](leetcode/0344-reverse-string/notes.md) |
+| 345 | Reverse Vowels of a String | Easy | [solution.py](leetcode/0345-reverse-vowels-of-a-string/solution.py) | [notes.md](leetcode/0345-reverse-vowels-of-a-string/notes.md) |
 | 347 | Top K Frequent Elements | Medium | [solution.py](leetcode/0347-top-k-frequent-elements/solution.py) | [notes.md](leetcode/0347-top-k-frequent-elements/notes.md) |
+| 349 | Intersection of Two Arrays | Easy | [solution.py](leetcode/0349-intersection-of-two-arrays/solution.py) | [notes.md](leetcode/0349-intersection-of-two-arrays/notes.md) |
+| 350 | Intersection of Two Arrays II | Easy | [solution.py](leetcode/0350-intersection-of-two-arrays-ii/solution.py) | [notes.md](leetcode/0350-intersection-of-two-arrays-ii/notes.md) |
+| 354 | Russian Doll Envelopes | Hard | [solution.py](leetcode/0354-russian-doll-envelopes/solution.py) | [notes.md](leetcode/0354-russian-doll-envelopes/notes.md) |
+| 355 | Design Twitter | Medium | [solution.py](leetcode/0355-design-twitter/solution.py) | [notes.md](leetcode/0355-design-twitter/notes.md) |
+| 357 | Count Numbers with Unique Digits | Medium | [solution.py](leetcode/0357-count-numbers-with-unique-digits/solution.py) | [notes.md](leetcode/0357-count-numbers-with-unique-digits/notes.md) |
+| 365 | Water and Jug Problem | Medium | [solution.py](leetcode/0365-water-and-jug-problem/solution.py) | [notes.md](leetcode/0365-water-and-jug-problem/notes.md) |
+| 367 | Valid Perfect Square | Easy | [solution.py](leetcode/0367-valid-perfect-square/solution.py) | [notes.md](leetcode/0367-valid-perfect-square/notes.md) |
 | 373 | Find K Pairs with Smallest Sums | Medium | [solution.py](leetcode/0373-find-k-pairs-with-smallest-sums/solution.py) | [notes.md](leetcode/0373-find-k-pairs-with-smallest-sums/notes.md) |
 | 380 | Insert Delete GetRandom O(1) | Medium | [solution.py](leetcode/0380-insert-delete-getrandom-o1/solution.py) | [notes.md](leetcode/0380-insert-delete-getrandom-o1/notes.md) |
 | 383 | Ransom Note | Easy | [solution.py](leetcode/0383-ransom-note/solution.py) | [notes.md](leetcode/0383-ransom-note/notes.md) |
@@ -278,6 +288,7 @@ No pending submissions.
 
 | Date | Summary |
 | --- | --- |
+| [2026-07-02](logs/2026-07-02.md) | 10 classic dynamic-programming, two-pointer, set, sorting, design, combinatorics, number-theory, and binary-search problems accepted |
 | [2026-06-30](logs/2026-06-30.md) | 10 classic power, linked-list, matrix DFS, tree serialization, graph, dynamic-programming, and iterator problems accepted |
 | [2026-06-29](logs/2026-06-29.md) | 10 classic binary-search, iterator, tree serialization, BFS, prefix-sum, dynamic-programming, Fenwick-tree, and sorting problems accepted |
 | [2026-06-26](logs/2026-06-26.md) | 10 classic bit, design, digit-counting, tree, linked-list, divide-and-conquer, and number problems accepted |
