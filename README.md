@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 267
-- Latest activity: 2026-07-02, 10 classic dynamic-programming, two-pointer, set, sorting, design, combinatorics, number-theory, and binary-search problems accepted
+- Solved problems: 277
+- Latest activity: 2026-07-06, 10 classic dynamic-programming, bit, binary-search, randomized-design, linked-list, shuffle, and parser problems accepted
 - Language: Python3
 
 ## Problems
@@ -257,9 +257,19 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 357 | Count Numbers with Unique Digits | Medium | [solution.py](leetcode/0357-count-numbers-with-unique-digits/solution.py) | [notes.md](leetcode/0357-count-numbers-with-unique-digits/notes.md) |
 | 365 | Water and Jug Problem | Medium | [solution.py](leetcode/0365-water-and-jug-problem/solution.py) | [notes.md](leetcode/0365-water-and-jug-problem/notes.md) |
 | 367 | Valid Perfect Square | Easy | [solution.py](leetcode/0367-valid-perfect-square/solution.py) | [notes.md](leetcode/0367-valid-perfect-square/notes.md) |
+| 368 | Largest Divisible Subset | Medium | [solution.py](leetcode/0368-largest-divisible-subset/solution.py) | [notes.md](leetcode/0368-largest-divisible-subset/notes.md) |
+| 371 | Sum of Two Integers | Medium | [solution.py](leetcode/0371-sum-of-two-integers/solution.py) | [notes.md](leetcode/0371-sum-of-two-integers/notes.md) |
 | 373 | Find K Pairs with Smallest Sums | Medium | [solution.py](leetcode/0373-find-k-pairs-with-smallest-sums/solution.py) | [notes.md](leetcode/0373-find-k-pairs-with-smallest-sums/notes.md) |
+| 374 | Guess Number Higher or Lower | Easy | [solution.py](leetcode/0374-guess-number-higher-or-lower/solution.py) | [notes.md](leetcode/0374-guess-number-higher-or-lower/notes.md) |
+| 375 | Guess Number Higher or Lower II | Medium | [solution.py](leetcode/0375-guess-number-higher-or-lower-ii/solution.py) | [notes.md](leetcode/0375-guess-number-higher-or-lower-ii/notes.md) |
+| 376 | Wiggle Subsequence | Medium | [solution.py](leetcode/0376-wiggle-subsequence/solution.py) | [notes.md](leetcode/0376-wiggle-subsequence/notes.md) |
+| 377 | Combination Sum IV | Medium | [solution.py](leetcode/0377-combination-sum-iv/solution.py) | [notes.md](leetcode/0377-combination-sum-iv/notes.md) |
 | 380 | Insert Delete GetRandom O(1) | Medium | [solution.py](leetcode/0380-insert-delete-getrandom-o1/solution.py) | [notes.md](leetcode/0380-insert-delete-getrandom-o1/notes.md) |
+| 381 | Insert Delete GetRandom O(1) - Duplicates allowed | Hard | [solution.py](leetcode/0381-insert-delete-getrandom-o1-duplicates-allowed/solution.py) | [notes.md](leetcode/0381-insert-delete-getrandom-o1-duplicates-allowed/notes.md) |
+| 382 | Linked List Random Node | Medium | [solution.py](leetcode/0382-linked-list-random-node/solution.py) | [notes.md](leetcode/0382-linked-list-random-node/notes.md) |
 | 383 | Ransom Note | Easy | [solution.py](leetcode/0383-ransom-note/solution.py) | [notes.md](leetcode/0383-ransom-note/notes.md) |
+| 384 | Shuffle an Array | Medium | [solution.py](leetcode/0384-shuffle-an-array/solution.py) | [notes.md](leetcode/0384-shuffle-an-array/notes.md) |
+| 385 | Mini Parser | Medium | [solution.py](leetcode/0385-mini-parser/solution.py) | [notes.md](leetcode/0385-mini-parser/notes.md) |
 | 392 | Is Subsequence | Easy | [solution.py](leetcode/0392-is-subsequence/solution.py) | [notes.md](leetcode/0392-is-subsequence/notes.md) |
 | 394 | Decode String | Medium | [solution.py](leetcode/0394-decode-string/solution.py) | [notes.md](leetcode/0394-decode-string/notes.md) |
 | 399 | Evaluate Division | Medium | [solution.py](leetcode/0399-evaluate-division/solution.py) | [notes.md](leetcode/0399-evaluate-division/notes.md) |
@@ -288,6 +298,7 @@ No pending submissions.
 
 | Date | Summary |
 | --- | --- |
+| [2026-07-06](logs/2026-07-06.md) | 10 classic dynamic-programming, bit, binary-search, randomized-design, linked-list, shuffle, and parser problems accepted |
 | [2026-07-02](logs/2026-07-02.md) | 10 classic dynamic-programming, two-pointer, set, sorting, design, combinatorics, number-theory, and binary-search problems accepted |
 | [2026-06-30](logs/2026-06-30.md) | 10 classic power, linked-list, matrix DFS, tree serialization, graph, dynamic-programming, and iterator problems accepted |
 | [2026-06-29](logs/2026-06-29.md) | 10 classic binary-search, iterator, tree serialization, BFS, prefix-sum, dynamic-programming, Fenwick-tree, and sorting problems accepted |
