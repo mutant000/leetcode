@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 277
-- Latest activity: 2026-07-06, 10 classic dynamic-programming, bit, binary-search, randomized-design, linked-list, shuffle, and parser problems accepted
+- Solved problems: 287
+- Latest activity: 2026-07-10, 10 classic lexicographical-traversal, string, bit, simulation, geometry, encoding, divide-and-conquer, and recurrence problems accepted
 - Language: Python3
 
 ## Problems
@@ -270,8 +270,18 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 383 | Ransom Note | Easy | [solution.py](leetcode/0383-ransom-note/solution.py) | [notes.md](leetcode/0383-ransom-note/notes.md) |
 | 384 | Shuffle an Array | Medium | [solution.py](leetcode/0384-shuffle-an-array/solution.py) | [notes.md](leetcode/0384-shuffle-an-array/notes.md) |
 | 385 | Mini Parser | Medium | [solution.py](leetcode/0385-mini-parser/solution.py) | [notes.md](leetcode/0385-mini-parser/notes.md) |
+| 386 | Lexicographical Numbers | Medium | [solution.py](leetcode/0386-lexicographical-numbers/solution.py) | [notes.md](leetcode/0386-lexicographical-numbers/notes.md) |
+| 387 | First Unique Character in a String | Easy | [solution.py](leetcode/0387-first-unique-character-in-a-string/solution.py) | [notes.md](leetcode/0387-first-unique-character-in-a-string/notes.md) |
+| 388 | Longest Absolute File Path | Medium | [solution.py](leetcode/0388-longest-absolute-file-path/solution.py) | [notes.md](leetcode/0388-longest-absolute-file-path/notes.md) |
+| 389 | Find the Difference | Easy | [solution.py](leetcode/0389-find-the-difference/solution.py) | [notes.md](leetcode/0389-find-the-difference/notes.md) |
+| 390 | Elimination Game | Medium | [solution.py](leetcode/0390-elimination-game/solution.py) | [notes.md](leetcode/0390-elimination-game/notes.md) |
+| 391 | Perfect Rectangle | Hard | [solution.py](leetcode/0391-perfect-rectangle/solution.py) | [notes.md](leetcode/0391-perfect-rectangle/notes.md) |
 | 392 | Is Subsequence | Easy | [solution.py](leetcode/0392-is-subsequence/solution.py) | [notes.md](leetcode/0392-is-subsequence/notes.md) |
+| 393 | UTF-8 Validation | Medium | [solution.py](leetcode/0393-utf-8-validation/solution.py) | [notes.md](leetcode/0393-utf-8-validation/notes.md) |
 | 394 | Decode String | Medium | [solution.py](leetcode/0394-decode-string/solution.py) | [notes.md](leetcode/0394-decode-string/notes.md) |
+| 395 | Longest Substring with At Least K Repeating Characters | Medium | [solution.py](leetcode/0395-longest-substring-with-at-least-k-repeating-characters/solution.py) | [notes.md](leetcode/0395-longest-substring-with-at-least-k-repeating-characters/notes.md) |
+| 396 | Rotate Function | Medium | [solution.py](leetcode/0396-rotate-function/solution.py) | [notes.md](leetcode/0396-rotate-function/notes.md) |
+| 397 | Integer Replacement | Medium | [solution.py](leetcode/0397-integer-replacement/solution.py) | [notes.md](leetcode/0397-integer-replacement/notes.md) |
 | 399 | Evaluate Division | Medium | [solution.py](leetcode/0399-evaluate-division/solution.py) | [notes.md](leetcode/0399-evaluate-division/notes.md) |
 | 416 | Partition Equal Subset Sum | Medium | [solution.py](leetcode/0416-partition-equal-subset-sum/solution.py) | [notes.md](leetcode/0416-partition-equal-subset-sum/notes.md) |
 | 433 | Minimum Genetic Mutation | Medium | [solution.py](leetcode/0433-minimum-genetic-mutation/solution.py) | [notes.md](leetcode/0433-minimum-genetic-mutation/notes.md) |
@@ -298,6 +308,7 @@ No pending submissions.
 
 | Date | Summary |
 | --- | --- |
+| [2026-07-10](logs/2026-07-10.md) | 10 classic lexicographical-traversal, string, bit, simulation, geometry, encoding, divide-and-conquer, and recurrence problems accepted |
 | [2026-07-06](logs/2026-07-06.md) | 10 classic dynamic-programming, bit, binary-search, randomized-design, linked-list, shuffle, and parser problems accepted |
 | [2026-07-02](logs/2026-07-02.md) | 10 classic dynamic-programming, two-pointer, set, sorting, design, combinatorics, number-theory, and binary-search problems accepted |
 | [2026-06-30](logs/2026-06-30.md) | 10 classic power, linked-list, matrix DFS, tree serialization, graph, dynamic-programming, and iterator problems accepted |
