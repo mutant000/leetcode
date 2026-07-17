@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 287
-- Latest activity: 2026-07-10, 10 classic lexicographical-traversal, string, bit, simulation, geometry, encoding, divide-and-conquer, and recurrence problems accepted
+- Solved problems: 297
+- Latest activity: 2026-07-17, 10 classic randomized-indexing, digit-positioning, bit-enumeration, monotonic-stack, dynamic-programming, tree, bitwise, greedy, and heap problems accepted
 - Language: Python3
 
 ## Problems
@@ -282,7 +282,17 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 395 | Longest Substring with At Least K Repeating Characters | Medium | [solution.py](leetcode/0395-longest-substring-with-at-least-k-repeating-characters/solution.py) | [notes.md](leetcode/0395-longest-substring-with-at-least-k-repeating-characters/notes.md) |
 | 396 | Rotate Function | Medium | [solution.py](leetcode/0396-rotate-function/solution.py) | [notes.md](leetcode/0396-rotate-function/notes.md) |
 | 397 | Integer Replacement | Medium | [solution.py](leetcode/0397-integer-replacement/solution.py) | [notes.md](leetcode/0397-integer-replacement/notes.md) |
+| 398 | Random Pick Index | Medium | [solution.py](leetcode/0398-random-pick-index/solution.py) | [notes.md](leetcode/0398-random-pick-index/notes.md) |
 | 399 | Evaluate Division | Medium | [solution.py](leetcode/0399-evaluate-division/solution.py) | [notes.md](leetcode/0399-evaluate-division/notes.md) |
+| 400 | Nth Digit | Medium | [solution.py](leetcode/0400-nth-digit/solution.py) | [notes.md](leetcode/0400-nth-digit/notes.md) |
+| 401 | Binary Watch | Easy | [solution.py](leetcode/0401-binary-watch/solution.py) | [notes.md](leetcode/0401-binary-watch/notes.md) |
+| 402 | Remove K Digits | Medium | [solution.py](leetcode/0402-remove-k-digits/solution.py) | [notes.md](leetcode/0402-remove-k-digits/notes.md) |
+| 403 | Frog Jump | Hard | [solution.py](leetcode/0403-frog-jump/solution.py) | [notes.md](leetcode/0403-frog-jump/notes.md) |
+| 404 | Sum of Left Leaves | Easy | [solution.py](leetcode/0404-sum-of-left-leaves/solution.py) | [notes.md](leetcode/0404-sum-of-left-leaves/notes.md) |
+| 405 | Convert a Number to Hexadecimal | Easy | [solution.py](leetcode/0405-convert-a-number-to-hexadecimal/solution.py) | [notes.md](leetcode/0405-convert-a-number-to-hexadecimal/notes.md) |
+| 406 | Queue Reconstruction by Height | Medium | [solution.py](leetcode/0406-queue-reconstruction-by-height/solution.py) | [notes.md](leetcode/0406-queue-reconstruction-by-height/notes.md) |
+| 407 | Trapping Rain Water II | Hard | [solution.py](leetcode/0407-trapping-rain-water-ii/solution.py) | [notes.md](leetcode/0407-trapping-rain-water-ii/notes.md) |
+| 409 | Longest Palindrome | Easy | [solution.py](leetcode/0409-longest-palindrome/solution.py) | [notes.md](leetcode/0409-longest-palindrome/notes.md) |
 | 416 | Partition Equal Subset Sum | Medium | [solution.py](leetcode/0416-partition-equal-subset-sum/solution.py) | [notes.md](leetcode/0416-partition-equal-subset-sum/notes.md) |
 | 433 | Minimum Genetic Mutation | Medium | [solution.py](leetcode/0433-minimum-genetic-mutation/solution.py) | [notes.md](leetcode/0433-minimum-genetic-mutation/notes.md) |
 | 437 | Path Sum III | Medium | [solution.py](leetcode/0437-path-sum-iii/solution.py) | [notes.md](leetcode/0437-path-sum-iii/notes.md) |
@@ -308,6 +318,7 @@ No pending submissions.
 
 | Date | Summary |
 | --- | --- |
+| [2026-07-17](logs/2026-07-17.md) | 10 classic randomized-indexing, digit-positioning, bit-enumeration, monotonic-stack, dynamic-programming, tree, bitwise, greedy, and heap problems accepted |
 | [2026-07-10](logs/2026-07-10.md) | 10 classic lexicographical-traversal, string, bit, simulation, geometry, encoding, divide-and-conquer, and recurrence problems accepted |
 | [2026-07-06](logs/2026-07-06.md) | 10 classic dynamic-programming, bit, binary-search, randomized-design, linked-list, shuffle, and parser problems accepted |
 | [2026-07-02](logs/2026-07-02.md) | 10 classic dynamic-programming, two-pointer, set, sorting, design, combinatorics, number-theory, and binary-search problems accepted |
