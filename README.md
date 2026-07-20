@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 297
-- Latest activity: 2026-07-17, 10 classic randomized-indexing, digit-positioning, bit-enumeration, monotonic-stack, dynamic-programming, tree, bitwise, greedy, and heap problems accepted
+- Solved problems: 307
+- Latest activity: 2026-07-20, 10 classic binary-search, simulation, dynamic-programming, string-arithmetic, graph-search, grid, greedy, bitwise, and frequency-counting problems accepted
 - Language: Python3
 
 ## Problems
@@ -293,7 +293,17 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 406 | Queue Reconstruction by Height | Medium | [solution.py](leetcode/0406-queue-reconstruction-by-height/solution.py) | [notes.md](leetcode/0406-queue-reconstruction-by-height/notes.md) |
 | 407 | Trapping Rain Water II | Hard | [solution.py](leetcode/0407-trapping-rain-water-ii/solution.py) | [notes.md](leetcode/0407-trapping-rain-water-ii/notes.md) |
 | 409 | Longest Palindrome | Easy | [solution.py](leetcode/0409-longest-palindrome/solution.py) | [notes.md](leetcode/0409-longest-palindrome/notes.md) |
+| 410 | Split Array Largest Sum | Hard | [solution.py](leetcode/0410-split-array-largest-sum/solution.py) | [notes.md](leetcode/0410-split-array-largest-sum/notes.md) |
+| 412 | Fizz Buzz | Easy | [solution.py](leetcode/0412-fizz-buzz/solution.py) | [notes.md](leetcode/0412-fizz-buzz/notes.md) |
+| 413 | Arithmetic Slices | Medium | [solution.py](leetcode/0413-arithmetic-slices/solution.py) | [notes.md](leetcode/0413-arithmetic-slices/notes.md) |
+| 414 | Third Maximum Number | Easy | [solution.py](leetcode/0414-third-maximum-number/solution.py) | [notes.md](leetcode/0414-third-maximum-number/notes.md) |
+| 415 | Add Strings | Easy | [solution.py](leetcode/0415-add-strings/solution.py) | [notes.md](leetcode/0415-add-strings/notes.md) |
 | 416 | Partition Equal Subset Sum | Medium | [solution.py](leetcode/0416-partition-equal-subset-sum/solution.py) | [notes.md](leetcode/0416-partition-equal-subset-sum/notes.md) |
+| 417 | Pacific Atlantic Water Flow | Medium | [solution.py](leetcode/0417-pacific-atlantic-water-flow/solution.py) | [notes.md](leetcode/0417-pacific-atlantic-water-flow/notes.md) |
+| 419 | Battleships in a Board | Medium | [solution.py](leetcode/0419-battleships-in-a-board/solution.py) | [notes.md](leetcode/0419-battleships-in-a-board/notes.md) |
+| 420 | Strong Password Checker | Hard | [solution.py](leetcode/0420-strong-password-checker/solution.py) | [notes.md](leetcode/0420-strong-password-checker/notes.md) |
+| 421 | Maximum XOR of Two Numbers in an Array | Medium | [solution.py](leetcode/0421-maximum-xor-of-two-numbers-in-an-array/solution.py) | [notes.md](leetcode/0421-maximum-xor-of-two-numbers-in-an-array/notes.md) |
+| 423 | Reconstruct Original Digits from English | Medium | [solution.py](leetcode/0423-reconstruct-original-digits-from-english/solution.py) | [notes.md](leetcode/0423-reconstruct-original-digits-from-english/notes.md) |
 | 433 | Minimum Genetic Mutation | Medium | [solution.py](leetcode/0433-minimum-genetic-mutation/solution.py) | [notes.md](leetcode/0433-minimum-genetic-mutation/notes.md) |
 | 437 | Path Sum III | Medium | [solution.py](leetcode/0437-path-sum-iii/solution.py) | [notes.md](leetcode/0437-path-sum-iii/notes.md) |
 | 438 | Find All Anagrams in a String | Medium | [solution.py](leetcode/0438-find-all-anagrams-in-a-string/solution.py) | [notes.md](leetcode/0438-find-all-anagrams-in-a-string/notes.md) |
@@ -318,6 +328,7 @@ No pending submissions.
 
 | Date | Summary |
 | --- | --- |
+| [2026-07-20](logs/2026-07-20.md) | 10 classic binary-search, simulation, dynamic-programming, string-arithmetic, graph-search, grid, greedy, bitwise, and frequency-counting problems accepted |
 | [2026-07-17](logs/2026-07-17.md) | 10 classic randomized-indexing, digit-positioning, bit-enumeration, monotonic-stack, dynamic-programming, tree, bitwise, greedy, and heap problems accepted |
 | [2026-07-10](logs/2026-07-10.md) | 10 classic lexicographical-traversal, string, bit, simulation, geometry, encoding, divide-and-conquer, and recurrence problems accepted |
 | [2026-07-06](logs/2026-07-06.md) | 10 classic dynamic-programming, bit, binary-search, randomized-design, linked-list, shuffle, and parser problems accepted |
