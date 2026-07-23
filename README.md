@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 317
-- Latest activity: 2026-07-23, 10 classic sliding-window, prefix-sum, tree-BFS, linked-list, O(1)-design, string-scanning, interval-greedy, binary-search, and lexicographical-tree problems accepted
+- Solved problems: 327
+- Latest activity: 2026-07-23, 20 classic sliding-window, tree, linked-list, data-structure, interval, array-marking, compression, dynamic-programming, geometry, BST, sorting, and math problems accepted
 - Language: Python3
 
 ## Problems
@@ -317,7 +317,17 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 438 | Find All Anagrams in a String | Medium | [solution.py](leetcode/0438-find-all-anagrams-in-a-string/solution.py) | [notes.md](leetcode/0438-find-all-anagrams-in-a-string/notes.md) |
 | 440 | K-th Smallest in Lexicographical Order | Hard | [solution.py](leetcode/0440-k-th-smallest-in-lexicographical-order/solution.py) | [notes.md](leetcode/0440-k-th-smallest-in-lexicographical-order/notes.md) |
 | 441 | Arranging Coins | Easy | [solution.py](leetcode/0441-arranging-coins/solution.py) | [notes.md](leetcode/0441-arranging-coins/notes.md) |
+| 442 | Find All Duplicates in an Array | Medium | [solution.py](leetcode/0442-find-all-duplicates-in-an-array/solution.py) | [notes.md](leetcode/0442-find-all-duplicates-in-an-array/notes.md) |
+| 443 | String Compression | Medium | [solution.py](leetcode/0443-string-compression/solution.py) | [notes.md](leetcode/0443-string-compression/notes.md) |
+| 445 | Add Two Numbers II | Medium | [solution.py](leetcode/0445-add-two-numbers-ii/solution.py) | [notes.md](leetcode/0445-add-two-numbers-ii/notes.md) |
+| 446 | Arithmetic Slices II - Subsequence | Hard | [solution.py](leetcode/0446-arithmetic-slices-ii-subsequence/solution.py) | [notes.md](leetcode/0446-arithmetic-slices-ii-subsequence/notes.md) |
+| 447 | Number of Boomerangs | Medium | [solution.py](leetcode/0447-number-of-boomerangs/solution.py) | [notes.md](leetcode/0447-number-of-boomerangs/notes.md) |
+| 448 | Find All Numbers Disappeared in an Array | Easy | [solution.py](leetcode/0448-find-all-numbers-disappeared-in-an-array/solution.py) | [notes.md](leetcode/0448-find-all-numbers-disappeared-in-an-array/notes.md) |
+| 449 | Serialize and Deserialize BST | Medium | [solution.py](leetcode/0449-serialize-and-deserialize-bst/solution.py) | [notes.md](leetcode/0449-serialize-and-deserialize-bst/notes.md) |
+| 450 | Delete Node in a BST | Medium | [solution.py](leetcode/0450-delete-node-in-a-bst/solution.py) | [notes.md](leetcode/0450-delete-node-in-a-bst/notes.md) |
+| 451 | Sort Characters By Frequency | Medium | [solution.py](leetcode/0451-sort-characters-by-frequency/solution.py) | [notes.md](leetcode/0451-sort-characters-by-frequency/notes.md) |
 | 452 | Minimum Number of Arrows to Burst Balloons | Medium | [solution.py](leetcode/0452-minimum-number-of-arrows-to-burst-balloons/solution.py) | [notes.md](leetcode/0452-minimum-number-of-arrows-to-burst-balloons/notes.md) |
+| 453 | Minimum Moves to Equal Array Elements | Medium | [solution.py](leetcode/0453-minimum-moves-to-equal-array-elements/solution.py) | [notes.md](leetcode/0453-minimum-moves-to-equal-array-elements/notes.md) |
 | 502 | IPO | Hard | [solution.py](leetcode/0502-ipo/solution.py) | [notes.md](leetcode/0502-ipo/notes.md) |
 | 530 | Minimum Absolute Difference in BST | Easy | [solution.py](leetcode/0530-minimum-absolute-difference-in-bst/solution.py) | [notes.md](leetcode/0530-minimum-absolute-difference-in-bst/notes.md) |
 | 543 | Diameter of Binary Tree | Easy | [solution.py](leetcode/0543-diameter-of-binary-tree/solution.py) | [notes.md](leetcode/0543-diameter-of-binary-tree/notes.md) |
@@ -338,7 +348,7 @@ No pending submissions.
 
 | Date | Summary |
 | --- | --- |
-| [2026-07-23](logs/2026-07-23.md) | 10 classic sliding-window, prefix-sum, tree-BFS, linked-list, O(1)-design, string-scanning, interval-greedy, binary-search, and lexicographical-tree problems accepted |
+| [2026-07-23](logs/2026-07-23.md) | 20 classic sliding-window, tree, linked-list, data-structure, interval, array-marking, compression, dynamic-programming, geometry, BST, sorting, and math problems accepted |
 | [2026-07-20](logs/2026-07-20.md) | 10 classic binary-search, simulation, dynamic-programming, string-arithmetic, graph-search, grid, greedy, bitwise, and frequency-counting problems accepted |
 | [2026-07-17](logs/2026-07-17.md) | 10 classic randomized-indexing, digit-positioning, bit-enumeration, monotonic-stack, dynamic-programming, tree, bitwise, greedy, and heap problems accepted |
 | [2026-07-10](logs/2026-07-10.md) | 10 classic lexicographical-traversal, string, bit, simulation, geometry, encoding, divide-and-conquer, and recurrence problems accepted |
