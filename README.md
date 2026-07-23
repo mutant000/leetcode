@@ -4,8 +4,8 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 
 ## Progress
 
-- Solved problems: 307
-- Latest activity: 2026-07-20, 10 classic binary-search, simulation, dynamic-programming, string-arithmetic, graph-search, grid, greedy, bitwise, and frequency-counting problems accepted
+- Solved problems: 317
+- Latest activity: 2026-07-23, 10 classic sliding-window, prefix-sum, tree-BFS, linked-list, O(1)-design, string-scanning, interval-greedy, binary-search, and lexicographical-tree problems accepted
 - Language: Python3
 
 ## Problems
@@ -304,9 +304,19 @@ This repository keeps a real daily record of LeetCode practice: Python3 solution
 | 420 | Strong Password Checker | Hard | [solution.py](leetcode/0420-strong-password-checker/solution.py) | [notes.md](leetcode/0420-strong-password-checker/notes.md) |
 | 421 | Maximum XOR of Two Numbers in an Array | Medium | [solution.py](leetcode/0421-maximum-xor-of-two-numbers-in-an-array/solution.py) | [notes.md](leetcode/0421-maximum-xor-of-two-numbers-in-an-array/notes.md) |
 | 423 | Reconstruct Original Digits from English | Medium | [solution.py](leetcode/0423-reconstruct-original-digits-from-english/solution.py) | [notes.md](leetcode/0423-reconstruct-original-digits-from-english/notes.md) |
+| 424 | Longest Repeating Character Replacement | Medium | [solution.py](leetcode/0424-longest-repeating-character-replacement/solution.py) | [notes.md](leetcode/0424-longest-repeating-character-replacement/notes.md) |
+| 427 | Construct Quad Tree | Medium | [solution.py](leetcode/0427-construct-quad-tree/solution.py) | [notes.md](leetcode/0427-construct-quad-tree/notes.md) |
+| 429 | N-ary Tree Level Order Traversal | Medium | [solution.py](leetcode/0429-n-ary-tree-level-order-traversal/solution.py) | [notes.md](leetcode/0429-n-ary-tree-level-order-traversal/notes.md) |
+| 430 | Flatten a Multilevel Doubly Linked List | Medium | [solution.py](leetcode/0430-flatten-a-multilevel-doubly-linked-list/solution.py) | [notes.md](leetcode/0430-flatten-a-multilevel-doubly-linked-list/notes.md) |
+| 432 | All O\`one Data Structure | Hard | [solution.py](leetcode/0432-all-oone-data-structure/solution.py) | [notes.md](leetcode/0432-all-oone-data-structure/notes.md) |
 | 433 | Minimum Genetic Mutation | Medium | [solution.py](leetcode/0433-minimum-genetic-mutation/solution.py) | [notes.md](leetcode/0433-minimum-genetic-mutation/notes.md) |
+| 434 | Number of Segments in a String | Easy | [solution.py](leetcode/0434-number-of-segments-in-a-string/solution.py) | [notes.md](leetcode/0434-number-of-segments-in-a-string/notes.md) |
+| 435 | Non-overlapping Intervals | Medium | [solution.py](leetcode/0435-non-overlapping-intervals/solution.py) | [notes.md](leetcode/0435-non-overlapping-intervals/notes.md) |
+| 436 | Find Right Interval | Medium | [solution.py](leetcode/0436-find-right-interval/solution.py) | [notes.md](leetcode/0436-find-right-interval/notes.md) |
 | 437 | Path Sum III | Medium | [solution.py](leetcode/0437-path-sum-iii/solution.py) | [notes.md](leetcode/0437-path-sum-iii/notes.md) |
 | 438 | Find All Anagrams in a String | Medium | [solution.py](leetcode/0438-find-all-anagrams-in-a-string/solution.py) | [notes.md](leetcode/0438-find-all-anagrams-in-a-string/notes.md) |
+| 440 | K-th Smallest in Lexicographical Order | Hard | [solution.py](leetcode/0440-k-th-smallest-in-lexicographical-order/solution.py) | [notes.md](leetcode/0440-k-th-smallest-in-lexicographical-order/notes.md) |
+| 441 | Arranging Coins | Easy | [solution.py](leetcode/0441-arranging-coins/solution.py) | [notes.md](leetcode/0441-arranging-coins/notes.md) |
 | 452 | Minimum Number of Arrows to Burst Balloons | Medium | [solution.py](leetcode/0452-minimum-number-of-arrows-to-burst-balloons/solution.py) | [notes.md](leetcode/0452-minimum-number-of-arrows-to-burst-balloons/notes.md) |
 | 502 | IPO | Hard | [solution.py](leetcode/0502-ipo/solution.py) | [notes.md](leetcode/0502-ipo/notes.md) |
 | 530 | Minimum Absolute Difference in BST | Easy | [solution.py](leetcode/0530-minimum-absolute-difference-in-bst/solution.py) | [notes.md](leetcode/0530-minimum-absolute-difference-in-bst/notes.md) |
@@ -328,6 +338,7 @@ No pending submissions.
 
 | Date | Summary |
 | --- | --- |
+| [2026-07-23](logs/2026-07-23.md) | 10 classic sliding-window, prefix-sum, tree-BFS, linked-list, O(1)-design, string-scanning, interval-greedy, binary-search, and lexicographical-tree problems accepted |
 | [2026-07-20](logs/2026-07-20.md) | 10 classic binary-search, simulation, dynamic-programming, string-arithmetic, graph-search, grid, greedy, bitwise, and frequency-counting problems accepted |
 | [2026-07-17](logs/2026-07-17.md) | 10 classic randomized-indexing, digit-positioning, bit-enumeration, monotonic-stack, dynamic-programming, tree, bitwise, greedy, and heap problems accepted |
 | [2026-07-10](logs/2026-07-10.md) | 10 classic lexicographical-traversal, string, bit, simulation, geometry, encoding, divide-and-conquer, and recurrence problems accepted |
